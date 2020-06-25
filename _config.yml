@@ -1,0 +1,16 @@
+remote_theme: thelehhman/texture
+title: Welcome to Mark's Blog
+show_excerpts: true
+permalink: /posts/:title/
+
+texture:
+  title: Mark Gravestock
+  tagline: Developer. Agile Practitioner.
+  date_format: "%b %-d, %Y"
+  style: blue
+  showNav: true
+
+  social_links:
+    twitter: markgravestock
+    github:  markgravestock
+    linkedIn: in/mark-gravestock 
