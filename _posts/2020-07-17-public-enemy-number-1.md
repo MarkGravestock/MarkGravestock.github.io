@@ -4,7 +4,7 @@ title:  "Public Enemy Number 1?"
 categories: refactoring design
 ---
 
-####Refactoring: Duplicate Code
+#### Refactoring: Duplicate Code
 
 Duplication is one of the biggest inhibitors of change that there is in software development, if not the biggest.
 
