@@ -1,9 +1,7 @@
 remote_theme: thelehhman/texture
 title: Welcome to Mark's Site
-show_excerpts: true
-permalink: /posts/:title/
-
-footer_content: "Copyright &copy; 2024 Mark Gravestock"
+#show_excerpts: true
+#permalink: /posts/:title/
 
 texture:
   title: Mark Gravestock
