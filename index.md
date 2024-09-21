@@ -11,4 +11,4 @@ I've worked in many:
 * Teams - of different sizes and with different organisational structures
 * Delivery Methods
 
-I've learnt something from every delivery, irrespective of the level of success achieved.
+I enjoy learning new things and have gained knowledge from every delivery, irrespective of the level of success achieved.
