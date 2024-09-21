@@ -3,6 +3,8 @@ title: Welcome to Mark's Site
 show_excerpts: true
 permalink: /posts/:title/
 
+footer_content: "Copyright &copy; 2024 Mark Gravestock"
+
 texture:
   title: Mark Gravestock
   tagline: Developer. Agile Practitioner.
