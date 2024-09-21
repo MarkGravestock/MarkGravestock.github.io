@@ -1,7 +1,7 @@
 remote_theme: thelehhman/texture
 title: Welcome to Mark's Site
-show_excerpts: true
-#permalink: /posts/:title/
+#show_excerpts: true
+permalink: /posts/:title/
 
 texture:
   title: Mark Gravestock
