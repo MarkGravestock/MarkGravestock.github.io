@@ -1,4 +1,4 @@
-## Home
+## Homepage
 
 ### About me
 
