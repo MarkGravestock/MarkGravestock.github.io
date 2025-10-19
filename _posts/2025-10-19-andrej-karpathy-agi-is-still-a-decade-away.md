@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Andrej Karpathy — AGI is still a decade away [Podcast]"
+title:  "[Podcast] Andrej Karpathy — AGI is still a decade away"
 categories: ai coding
 ---
 
