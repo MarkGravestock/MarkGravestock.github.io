@@ -1,4 +1,5 @@
-remote_theme: thelehhman/texture
+#remote_theme: thelehhman/texture
+remote_theme: poole/lanyon
 title: Welcome to Mark's Site
 #show_excerpts: true
 permalink: /posts/:title/
