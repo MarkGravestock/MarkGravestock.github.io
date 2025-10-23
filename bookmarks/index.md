@@ -11,6 +11,9 @@ title: Bookmarks
   font-weight: bold;
   margin-bottom: 0.25em;
 }
+.bookmark-title a {
+  color: #333;
+}
 .bookmark-tags {
   margin-bottom: 0.25em;
   font-size: 0.85em;
