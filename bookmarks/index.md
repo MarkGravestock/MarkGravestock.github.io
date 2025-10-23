@@ -13,22 +13,16 @@ title: Bookmarks
 }
 .bookmark-tags {
   margin-bottom: 0.25em;
+  font-size: 0.85em;
 }
 .tag {
-  display: inline-block;
-  padding: 2px 8px;
-  margin: 0 4px 0 0;
-  font-size: 0.75em;
+  margin-right: 8px;
   font-weight: 500;
-  color: #fff;
-  background-color: #6c757d;
-  border-radius: 12px;
-  text-transform: lowercase;
 }
-.tag-events { background-color: #e67e22; }
-.tag-ddd { background-color: #3498db; }
-.tag-tdd { background-color: #2ecc71; }
-.tag-ai { background-color: #9b59b6; }
+.tag-events { color: #e67e22; }
+.tag-ddd { color: #3498db; }
+.tag-tdd { color: #2ecc71; }
+.tag-ai { color: #9b59b6; }
 .bookmark-meta {
   font-size: 0.85em;
   color: #666;
@@ -43,13 +37,13 @@ A collection of useful things I've found on the web.
 
 <div class="bookmark">
 <div class="bookmark-title"><a href="https://open.substack.com/pub/architectureweekly/p/dealing-with-race-conditions-in-event?utm_source=share&utm_medium=android&r=j1l7m">Dealing with Race Conditions in Event-Driven Architecture with Read Models</a></div>
-<div class="bookmark-tags"><span class="tag tag-events">events</span></div>
+<div class="bookmark-tags"><span class="tag tag-events">#events</span></div>
 <div class="bookmark-meta">architectureweekly · October 21</div>
 </div>
 
 <div class="bookmark">
 <div class="bookmark-title"><a href="https://verraes.net/2025/08/domain-and-bounded-contexts-dont-map-one-on-one/">No, Your Domains and Bounded Contexts Don't Map 1 on 1</a></div>
-<div class="bookmark-tags"><span class="tag tag-ddd">ddd</span></div>
+<div class="bookmark-tags"><span class="tag tag-ddd">#ddd</span></div>
 <div class="bookmark-meta">verraes.net · October 21</div>
 </div>
 
@@ -65,19 +59,19 @@ A collection of useful things I've found on the web.
 
 <div class="bookmark">
 <div class="bookmark-title"><a href="https://blog.thecodewhisperer.com/permalink/going-further-with-one-outcome-per-test">Going Further with One Outcome Per Test</a></div>
-<div class="bookmark-tags"><span class="tag tag-tdd">tdd</span> <span class="tag tag-ddd">ddd</span></div>
+<div class="bookmark-tags"><span class="tag tag-tdd">#tdd</span> <span class="tag tag-ddd">#ddd</span></div>
 <div class="bookmark-meta">thecodewhisperer.com · October 19</div>
 </div>
 
 <div class="bookmark">
 <div class="bookmark-title"><a href="https://codemanship.wordpress.com/2025/10/13/tdd-under-the-microscope-3-one-outcome-per-test/">TDD Under The Microscope #3 – One Outcome Per Test</a></div>
-<div class="bookmark-tags"><span class="tag tag-tdd">tdd</span></div>
+<div class="bookmark-tags"><span class="tag tag-tdd">#tdd</span></div>
 <div class="bookmark-meta">codemanship.wordpress.com · October 19</div>
 </div>
 
 <div class="bookmark">
 <div class="bookmark-title"><a href="https://www.dwarkesh.com/p/andrej-karpathy">Andrej Karpathy — AGI is still a decade away</a></div>
-<div class="bookmark-tags"><span class="tag tag-ai">ai</span></div>
+<div class="bookmark-tags"><span class="tag tag-ai">#ai</span></div>
 <div class="bookmark-meta">dwarkesh.com · October 19</div>
 <div style="font-size: 0.9em; color: #555; margin-top: 0.25em;">Interesting views on current state of AI coding and future timelines.</div>
 </div>
