@@ -3,6 +3,24 @@ layout: page
 title: Bookmarks
 ---
 
+<style>
+.tag {
+  display: inline-block;
+  padding: 2px 8px;
+  margin: 0 4px 0 0;
+  font-size: 0.75em;
+  font-weight: 500;
+  color: #fff;
+  background-color: #6c757d;
+  border-radius: 12px;
+  text-transform: lowercase;
+}
+.tag-events { background-color: #e67e22; }
+.tag-ddd { background-color: #3498db; }
+.tag-tdd { background-color: #2ecc71; }
+.tag-ai { background-color: #9b59b6; }
+</style>
+
 A collection of useful things I've found on the web.
 
 ---
@@ -10,18 +28,23 @@ A collection of useful things I've found on the web.
 ### October 2025
 
 **[Dealing with Race Conditions in Event-Driven Architecture with Read Models](https://open.substack.com/pub/architectureweekly/p/dealing-with-race-conditions-in-event?utm_source=share&utm_medium=android&r=j1l7m)** - *October 21*
+<span class="tag tag-events">events</span>
 
 **[No, Your Domains and Bounded Contexts Don't Map 1 on 1](https://verraes.net/2025/08/domain-and-bounded-contexts-dont-map-one-on-one/)** - *October 21*
+<span class="tag tag-ddd">ddd</span>
 
 **[A Covent Garden Walking Tour](https://www.nytimes.com/1978/02/05/archives/14-covent-garden-walking-tour-wandering-on-foot-in-covent-garden.html?smid=nytcore-android-share)** - *October 21*
 
 **[Pandas vs. Polars vs. DuckDB vs. PySpark: Benchmarking Libraries with Real Experiments](https://open.substack.com/pub/pipeline2insights/p/pandas-vs-polars-vs-duckdb-vs-pyspark-benchmarking-real-experiments?utm_source=share&utm_medium=android&r=j1l7m)** - *October 19*
 
 **[Going Further with One Outcome Per Test](https://blog.thecodewhisperer.com/permalink/going-further-with-one-outcome-per-test)** - *October 19*
+<span class="tag tag-tdd">tdd</span> <span class="tag tag-ddd">ddd</span>
 
 **[TDD Under The Microscope #3 – One Outcome Per Test](https://codemanship.wordpress.com/2025/10/13/tdd-under-the-microscope-3-one-outcome-per-test/)** - *October 19*
+<span class="tag tag-tdd">tdd</span>
 
 **[Andrej Karpathy — AGI is still a decade away](https://www.dwarkesh.com/p/andrej-karpathy)** - *October 19*
+<span class="tag tag-ai">ai</span>
 Interesting views on current state of AI coding and future timelines.
 
 **[Not Yelling at Clouds, Episode 7: Nice Try, Bolt. Fixing a Domain Defect.](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fyoutube%2Ecom%2Fwatch%3Fv%3DcDOE0ZM6nPo%26si%3DPOqn-IWocgd1OmGc&urlhash=lISw&isSdui=true)** - *October 19*
