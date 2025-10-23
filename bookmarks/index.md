@@ -4,6 +4,16 @@ title: Bookmarks
 ---
 
 <style>
+.bookmark {
+  margin-bottom: 1.5em;
+}
+.bookmark-title {
+  font-weight: bold;
+  margin-bottom: 0.25em;
+}
+.bookmark-tags {
+  margin-bottom: 0.25em;
+}
 .tag {
   display: inline-block;
   padding: 2px 8px;
@@ -19,6 +29,10 @@ title: Bookmarks
 .tag-ddd { background-color: #3498db; }
 .tag-tdd { background-color: #2ecc71; }
 .tag-ai { background-color: #9b59b6; }
+.bookmark-meta {
+  font-size: 0.85em;
+  color: #666;
+}
 </style>
 
 A collection of useful things I've found on the web.
@@ -27,72 +41,150 @@ A collection of useful things I've found on the web.
 
 ### October 2025
 
-**[Dealing with Race Conditions in Event-Driven Architecture with Read Models](https://open.substack.com/pub/architectureweekly/p/dealing-with-race-conditions-in-event?utm_source=share&utm_medium=android&r=j1l7m)** - *October 21*
-<span class="tag tag-events">events</span>
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://open.substack.com/pub/architectureweekly/p/dealing-with-race-conditions-in-event?utm_source=share&utm_medium=android&r=j1l7m">Dealing with Race Conditions in Event-Driven Architecture with Read Models</a></div>
+<div class="bookmark-tags"><span class="tag tag-events">events</span></div>
+<div class="bookmark-meta">architectureweekly · October 21</div>
+</div>
 
-**[No, Your Domains and Bounded Contexts Don't Map 1 on 1](https://verraes.net/2025/08/domain-and-bounded-contexts-dont-map-one-on-one/)** - *October 21*
-<span class="tag tag-ddd">ddd</span>
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://verraes.net/2025/08/domain-and-bounded-contexts-dont-map-one-on-one/">No, Your Domains and Bounded Contexts Don't Map 1 on 1</a></div>
+<div class="bookmark-tags"><span class="tag tag-ddd">ddd</span></div>
+<div class="bookmark-meta">verraes.net · October 21</div>
+</div>
 
-**[A Covent Garden Walking Tour](https://www.nytimes.com/1978/02/05/archives/14-covent-garden-walking-tour-wandering-on-foot-in-covent-garden.html?smid=nytcore-android-share)** - *October 21*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://www.nytimes.com/1978/02/05/archives/14-covent-garden-walking-tour-wandering-on-foot-in-covent-garden.html?smid=nytcore-android-share">A Covent Garden Walking Tour</a></div>
+<div class="bookmark-meta">nytimes.com · October 21</div>
+</div>
 
-**[Pandas vs. Polars vs. DuckDB vs. PySpark: Benchmarking Libraries with Real Experiments](https://open.substack.com/pub/pipeline2insights/p/pandas-vs-polars-vs-duckdb-vs-pyspark-benchmarking-real-experiments?utm_source=share&utm_medium=android&r=j1l7m)** - *October 19*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://open.substack.com/pub/pipeline2insights/p/pandas-vs-polars-vs-duckdb-vs-pyspark-benchmarking-real-experiments?utm_source=share&utm_medium=android&r=j1l7m">Pandas vs. Polars vs. DuckDB vs. PySpark: Benchmarking Libraries with Real Experiments</a></div>
+<div class="bookmark-meta">pipeline2insights · October 19</div>
+</div>
 
-**[Going Further with One Outcome Per Test](https://blog.thecodewhisperer.com/permalink/going-further-with-one-outcome-per-test)** - *October 19*
-<span class="tag tag-tdd">tdd</span> <span class="tag tag-ddd">ddd</span>
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://blog.thecodewhisperer.com/permalink/going-further-with-one-outcome-per-test">Going Further with One Outcome Per Test</a></div>
+<div class="bookmark-tags"><span class="tag tag-tdd">tdd</span> <span class="tag tag-ddd">ddd</span></div>
+<div class="bookmark-meta">thecodewhisperer.com · October 19</div>
+</div>
 
-**[TDD Under The Microscope #3 – One Outcome Per Test](https://codemanship.wordpress.com/2025/10/13/tdd-under-the-microscope-3-one-outcome-per-test/)** - *October 19*
-<span class="tag tag-tdd">tdd</span>
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://codemanship.wordpress.com/2025/10/13/tdd-under-the-microscope-3-one-outcome-per-test/">TDD Under The Microscope #3 – One Outcome Per Test</a></div>
+<div class="bookmark-tags"><span class="tag tag-tdd">tdd</span></div>
+<div class="bookmark-meta">codemanship.wordpress.com · October 19</div>
+</div>
 
-**[Andrej Karpathy — AGI is still a decade away](https://www.dwarkesh.com/p/andrej-karpathy)** - *October 19*
-<span class="tag tag-ai">ai</span>
-Interesting views on current state of AI coding and future timelines.
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://www.dwarkesh.com/p/andrej-karpathy">Andrej Karpathy — AGI is still a decade away</a></div>
+<div class="bookmark-tags"><span class="tag tag-ai">ai</span></div>
+<div class="bookmark-meta">dwarkesh.com · October 19</div>
+<div style="font-size: 0.9em; color: #555; margin-top: 0.25em;">Interesting views on current state of AI coding and future timelines.</div>
+</div>
 
-**[Not Yelling at Clouds, Episode 7: Nice Try, Bolt. Fixing a Domain Defect.](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fyoutube%2Ecom%2Fwatch%3Fv%3DcDOE0ZM6nPo%26si%3DPOqn-IWocgd1OmGc&urlhash=lISw&isSdui=true)** - *October 19*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fyoutube%2Ecom%2Fwatch%3Fv%3DcDOE0ZM6nPo%26si%3DPOqn-IWocgd1OmGc&urlhash=lISw&isSdui=true">Not Yelling at Clouds, Episode 7: Nice Try, Bolt. Fixing a Domain Defect.</a></div>
+<div class="bookmark-meta">youtube.com · October 19</div>
+</div>
 
-**[A new animism - The Cynefin Co](https://thecynefin.co/a-new-animism/)** - *October 13*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://thecynefin.co/a-new-animism/">A new animism - The Cynefin Co</a></div>
+<div class="bookmark-meta">thecynefin.co · October 13</div>
+</div>
 
 ---
 
 ### September 2025
 
-**[AI Components for a Deterministic System (An Example)](https://www.domainlanguage.com/articles/ai-components-deterministic-system/)** - *September 28*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://www.domainlanguage.com/articles/ai-components-deterministic-system/">AI Components for a Deterministic System (An Example)</a></div>
+<div class="bookmark-meta">domainlanguage.com · September 28</div>
+</div>
 
-**[Some of us hack on Raspberry Pis.](https://www.linkedin.com/posts/shanselman_some-of-us-hack-on-raspberry-pis-some-of-activity-7373807532592738304-9vgP?utm_source=share&utm_medium=member_android&rcm=ACoAAACmXf4B8_MddEQprP34eTYn-rbE--Vn5Ic)** - *September 21*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://www.linkedin.com/posts/shanselman_some-of-us-hack-on-raspberry-pis-some-of-activity-7373807532592738304-9vgP?utm_source=share&utm_medium=member_android&rcm=ACoAAACmXf4B8_MddEQprP34eTYn-rbE--Vn5Ic">Some of us hack on Raspberry Pis.</a></div>
+<div class="bookmark-meta">linkedin.com · September 21</div>
+</div>
 
-**[Embabel: A New Agent Platform For the JVM](https://medium.com/@springrod/embabel-a-new-agent-platform-for-the-jvm-1c83402e0014)** - *September 21*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://medium.com/@springrod/embabel-a-new-agent-platform-for-the-jvm-1c83402e0014">Embabel: A New Agent Platform For the JVM</a></div>
+<div class="bookmark-meta">medium.com · September 21</div>
+</div>
 
-**[In Praise of "Normal" Engineers](http://charity.wtf/2025/06/19/in-praise-of-normal-engineers/amp/)** - *September 21*
+<div class="bookmark">
+<div class="bookmark-title"><a href="http://charity.wtf/2025/06/19/in-praise-of-normal-engineers/amp/">In Praise of "Normal" Engineers</a></div>
+<div class="bookmark-meta">charity.wtf · September 21</div>
+</div>
 
-**[Java 25 LTS and IntelliJ IDEA](https://search.app/DJkMC)** - *September 17*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://search.app/DJkMC">Java 25 LTS and IntelliJ IDEA</a></div>
+<div class="bookmark-meta">search.app · September 17</div>
+</div>
 
-**[How TypeScript can help in modelling business workflows](https://event-driven.io/en/how_to_have_fun_with_typescript_and_workflow/)** - *September 9*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://event-driven.io/en/how_to_have_fun_with_typescript_and_workflow/">How TypeScript can help in modelling business workflows</a></div>
+<div class="bookmark-meta">event-driven.io · September 9</div>
+</div>
 
-**[WebFlux vs Virtual Threads: I Hit Both with 100k Requests—One Struggled Badly](https://medium.com/@kp9810113/webflux-vs-virtual-threads-i-hit-both-with-100k-requests-one-struggled-badly-9f89f1c7163b)** - *September 6*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://medium.com/@kp9810113/webflux-vs-virtual-threads-i-hit-both-with-100k-requests-one-struggled-badly-9f89f1c7163b">WebFlux vs Virtual Threads: I Hit Both with 100k Requests—One Struggled Badly</a></div>
+<div class="bookmark-meta">medium.com · September 6</div>
+</div>
 
-**[Semantic Caching with Spring Boot & Redis - JVM Weekly vol. 144](https://open.substack.com/pub/vived/p/semantic-caching-with-spring-boot?utm_source=share&utm_medium=android&r=j1l7m)** - *September 4*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://open.substack.com/pub/vived/p/semantic-caching-with-spring-boot?utm_source=share&utm_medium=android&r=j1l7m">Semantic Caching with Spring Boot & Redis - JVM Weekly vol. 144</a></div>
+<div class="bookmark-meta">vived · September 4</div>
+</div>
 
 ---
 
 ### August 2025
 
-**[The wall confronting large language models](https://arxiv.org/html/2507.19703v1)** - *August 29*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://arxiv.org/html/2507.19703v1">The wall confronting large language models</a></div>
+<div class="bookmark-meta">arxiv.org · August 29</div>
+</div>
 
-**[KEEP: Rich Errors Motivation for Kotlin](https://github.com/Kotlin/KEEP/blob/main/proposals/KEEP-0441-rich-errors-motivation.md?utm_source=substack&utm_medium=email)** - *August 28*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://github.com/Kotlin/KEEP/blob/main/proposals/KEEP-0441-rich-errors-motivation.md?utm_source=substack&utm_medium=email">KEEP: Rich Errors Motivation for Kotlin</a></div>
+<div class="bookmark-meta">github.com · August 28</div>
+</div>
 
-**[Approximating Named Arguments in Java](https://mccue.dev/pages/8-13-25-approximating-named-arguments?utm_source=chatgpt.com&utm_medium=email)** - *August 28*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://mccue.dev/pages/8-13-25-approximating-named-arguments?utm_source=chatgpt.com&utm_medium=email">Approximating Named Arguments in Java</a></div>
+<div class="bookmark-meta">mccue.dev · August 28</div>
+</div>
 
-**[My thoughts on Vertical Slices, CQRS, Semantic Diffusion and other fancy words](https://www.architecture-weekly.com/p/my-thoughts-on-vertical-slices-cqrs)** - *August 25*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://www.architecture-weekly.com/p/my-thoughts-on-vertical-slices-cqrs">My thoughts on Vertical Slices, CQRS, Semantic Diffusion and other fancy words</a></div>
+<div class="bookmark-meta">architecture-weekly.com · August 25</div>
+</div>
 
-**[Spring Boot 4 and Spring Framework 7: Key Features and Changes](https://share.google/Bi8JQeWZmaz3l05PR)** - *August 25*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://share.google/Bi8JQeWZmaz3l05PR">Spring Boot 4 and Spring Framework 7: Key Features and Changes</a></div>
+<div class="bookmark-meta">share.google · August 25</div>
+</div>
 
-**[The Roadmap of Mathematics for Machine Learning](https://open.substack.com/pub/thepalindrome/p/the-roadmap-of-mathematics-for-machine-learning?utm_source=share&utm_medium=android&r=j1l7m)** - *August 10*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://open.substack.com/pub/thepalindrome/p/the-roadmap-of-mathematics-for-machine-learning?utm_source=share&utm_medium=android&r=j1l7m">The Roadmap of Mathematics for Machine Learning</a></div>
+<div class="bookmark-meta">thepalindrome · August 10</div>
+</div>
 
 ---
 
 ### July 2025
 
-**[Build advanced AI Agents with PostgreSQL](https://m.youtube.com/watch?v=m9x93eqwow8)** - *July 31*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://m.youtube.com/watch?v=m9x93eqwow8">Build advanced AI Agents with PostgreSQL</a></div>
+<div class="bookmark-meta">youtube.com · July 31</div>
+</div>
 
-**[Building a Full-Stack App with React and Aspire: A Step-by-Step Guide](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/)** - *July 31*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/">Building a Full-Stack App with React and Aspire: A Step-by-Step Guide</a></div>
+<div class="bookmark-meta">devblogs.microsoft.com · July 31</div>
+</div>
 
-**[Song recommendations with pipes and filters](https://blog.ploeh.dk/2025/07/14/song-recommendations-with-pipes-and-filters/)** - *July 28*
+<div class="bookmark">
+<div class="bookmark-title"><a href="https://blog.ploeh.dk/2025/07/14/song-recommendations-with-pipes-and-filters/">Song recommendations with pipes and filters</a></div>
+<div class="bookmark-meta">blog.ploeh.dk · July 28</div>
+</div>
