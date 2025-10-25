@@ -11,6 +11,6 @@ I've worked in many:
 * Teams - of different sizes and with different organisational structures
 * Delivery Methods
 
-I've learnt something from every delivery, irrespective of the level of success achieved.
+I've learnt something from every delivery, irrespective of the outcomes achieved.
 
 ### [About this site](/about/this-site)
