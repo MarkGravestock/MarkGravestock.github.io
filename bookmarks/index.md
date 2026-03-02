@@ -39,6 +39,13 @@ A collection of useful things I've found on the web.
 ## March 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://openai.com/index/scaling-postgresql/#image-80">Scaling PostgreSQL to power 800 million ChatGPT users | OpenAI</a></div>
+  <div class="bookmark-tags"><span class="tag">#postgres</span></div>
+  <div class="bookmark-meta">openai.com · 2 March</div>
+  <div class="bookmark-note">Solution includes using PgBouncer as Proxy</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://www.wimdeblauwe.com/blog/2025/05/14/combine-testcontainers-and-spring-boot-with-multiple-containers/">Combine Testcontainers and Spring Boot with multiple containers</a></div>
   <div class="bookmark-tags"><span class="tag">#spring-boot</span> <span class="tag">#java</span></div>
   <div class="bookmark-meta">wimdeblauwe.com · 1 March</div>
