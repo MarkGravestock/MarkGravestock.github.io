@@ -21,6 +21,8 @@ jobs:
           python-version: "3.12"
 
       - name: Run update script
+        env:
+          RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
         run: python _scripts/update_bookmarks.py
 
       - name: Commit if changed
