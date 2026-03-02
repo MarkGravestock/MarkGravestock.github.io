@@ -31,154 +31,306 @@ title: Bookmarks
 
 A collection of useful things I've found on the web.
 
----
-
-### October 2025
+## March 2026
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://open.substack.com/pub/architectureweekly/p/dealing-with-race-conditions-in-event?utm_source=share&utm_medium=android&r=j1l7m">Dealing with Race Conditions in Event-Driven Architecture with Read Models</a></div>
-<div class="bookmark-tags"><span class="tag">#events</span></div>
-<div class="bookmark-meta">architectureweekly · October 21</div>
-</div>
-
-<div class="bookmark">
-<div class="bookmark-title"><a href="https://verraes.net/2025/08/domain-and-bounded-contexts-dont-map-one-on-one/">No, Your Domains and Bounded Contexts Don't Map 1 on 1</a></div>
-<div class="bookmark-tags"><span class="tag">#ddd</span></div>
-<div class="bookmark-meta">verraes.net · October 21</div>
-</div>
-
-<div class="bookmark">
-<div class="bookmark-title"><a href="https://www.nytimes.com/1978/02/05/archives/14-covent-garden-walking-tour-wandering-on-foot-in-covent-garden.html?smid=nytcore-android-share">A Covent Garden Walking Tour</a></div>
-<div class="bookmark-meta">nytimes.com · October 21</div>
-</div>
-
-<div class="bookmark">
-<div class="bookmark-title"><a href="https://open.substack.com/pub/pipeline2insights/p/pandas-vs-polars-vs-duckdb-vs-pyspark-benchmarking-real-experiments?utm_source=share&utm_medium=android&r=j1l7m">Pandas vs. Polars vs. DuckDB vs. PySpark: Benchmarking Libraries with Real Experiments</a></div>
-<div class="bookmark-meta">pipeline2insights · October 19</div>
-</div>
-
-<div class="bookmark">
-<div class="bookmark-title"><a href="https://blog.thecodewhisperer.com/permalink/going-further-with-one-outcome-per-test">Going Further with One Outcome Per Test</a></div>
-<div class="bookmark-tags"><span class="tag">#tdd</span> <span class="tag">#ddd</span></div>
-<div class="bookmark-meta">thecodewhisperer.com · October 19</div>
-</div>
-
-<div class="bookmark">
-<div class="bookmark-title"><a href="https://codemanship.wordpress.com/2025/10/13/tdd-under-the-microscope-3-one-outcome-per-test/">TDD Under The Microscope #3 – One Outcome Per Test</a></div>
-<div class="bookmark-tags"><span class="tag">#tdd</span></div>
-<div class="bookmark-meta">codemanship.wordpress.com · October 19</div>
-</div>
-
-<div class="bookmark">
-<div class="bookmark-title"><a href="https://www.dwarkesh.com/p/andrej-karpathy">Andrej Karpathy — AGI is still a decade away</a></div>
-<div class="bookmark-tags"><span class="tag">#ai</span></div>
-<div class="bookmark-meta">dwarkesh.com · October 19</div>
-<div style="font-size: 0.9em; color: #555; margin-top: 0.25em;">Interesting views on current state of AI coding and future timelines.</div>
-</div>
-
-<div class="bookmark">
-<div class="bookmark-title"><a href="https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fyoutube%2Ecom%2Fwatch%3Fv%3DcDOE0ZM6nPo%26si%3DPOqn-IWocgd1OmGc&urlhash=lISw&isSdui=true">Not Yelling at Clouds, Episode 7: Nice Try, Bolt. Fixing a Domain Defect.</a></div>
-<div class="bookmark-meta">youtube.com · October 19</div>
-</div>
-
-<div class="bookmark">
-<div class="bookmark-title"><a href="https://thecynefin.co/a-new-animism/">A new animism - The Cynefin Co</a></div>
-<div class="bookmark-meta">thecynefin.co · October 13</div>
+  <div class="bookmark-title"><a href="https://www.wimdeblauwe.com/blog/2025/05/14/combine-testcontainers-and-spring-boot-with-multiple-containers/">Combine Testcontainers and Spring Boot with multiple containers</a></div>
+  <div class="bookmark-tags"><span class="tag">#spring-boot</span> <span class="tag">#java</span></div>
+  <div class="bookmark-meta">wimdeblauwe.com · 1 March</div>
 </div>
 
 ---
 
-### September 2025
+## February 2026
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://www.domainlanguage.com/articles/ai-components-deterministic-system/">AI Components for a Deterministic System (An Example)</a></div>
-<div class="bookmark-meta">domainlanguage.com · September 28</div>
+  <div class="bookmark-title"><a href="https://www.linkedin.com/posts/nick-tune_ive-recently-been-looking-at-setting-up-activity-7433470188752101376-aasq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACmXf4B8_MddEQprP34eTYn-rbE--Vn5Ic">(3) Post | LinkedIn</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#software development</span></div>
+  <div class="bookmark-meta">linkedin.com · 28 February</div>
 </div>
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://www.linkedin.com/posts/shanselman_some-of-us-hack-on-raspberry-pis-some-of-activity-7373807532592738304-9vgP?utm_source=share&utm_medium=member_android&rcm=ACoAAACmXf4B8_MddEQprP34eTYn-rbE--Vn5Ic">Some of us hack on Raspberry Pis.</a></div>
-<div class="bookmark-meta">linkedin.com · September 21</div>
+  <div class="bookmark-title"><a href="https://akamas.io/resources/the-state-of-java-on-kubernetes-2026-why-defaults-are-killing-your-performance/?utm_source=substack&utm_medium=email">Java on Kubernetes 2026: Fix Defaults, Boost Performance</a></div>
+  <div class="bookmark-tags"><span class="tag">#java</span></div>
+  <div class="bookmark-meta">akamas.io · 26 February</div>
 </div>
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://medium.com/@springrod/embabel-a-new-agent-platform-for-the-jvm-1c83402e0014">Embabel: A New Agent Platform For the JVM</a></div>
-<div class="bookmark-meta">medium.com · September 21</div>
+  <div class="bookmark-title"><a href="https://www.linkedin.com/posts/andyrichardson_there-comes-a-time-in-every-rapidly-growing-share-7431382402159194112-2d3l?utm_source=share&utm_medium=member_android&rcm=ACoAAACmXf4B8_MddEQprP34eTYn-rbE--Vn5Ic">Claude Code's Backlog Crisis: 6,383 Open Issues | Andy Richardson posted on the topic | LinkedIn</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#software development</span></div>
+  <div class="bookmark-meta">linkedin.com · 24 February</div>
 </div>
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="http://charity.wtf/2025/06/19/in-praise-of-normal-engineers/amp/">In Praise of "Normal" Engineers</a></div>
-<div class="bookmark-meta">charity.wtf · September 21</div>
+  <div class="bookmark-title"><a href="https://www.linkedin.com/pulse/ai-doesnt-fix-your-real-bottleneck-vlad-khononov-yuaff?utm_source=share&utm_medium=member_android&utm_campaign=share_via">AI Doesn't Fix Your Real Bottleneck</a></div>
+  <div class="bookmark-tags"><span class="tag">#systems thinking</span></div>
+  <div class="bookmark-meta">linkedin.com · 24 February</div>
 </div>
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://search.app/DJkMC">Java 25 LTS and IntelliJ IDEA</a></div>
-<div class="bookmark-meta">search.app · September 17</div>
+  <div class="bookmark-title"><a href="https://arxiv.org/pdf/2501.12948">2501.12948v2.pdf</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span></div>
+  <div class="bookmark-meta">arxiv.org · 22 February</div>
 </div>
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://event-driven.io/en/how_to_have_fun_with_typescript_and_workflow/">How TypeScript can help in modelling business workflows</a></div>
-<div class="bookmark-meta">event-driven.io · September 9</div>
+  <div class="bookmark-title"><a href="https://youtu.be/jdYwziAl8cM?si=z-BdXgpKGkP4yGor">Building production-ready Event-Sourced Node Apps with Ralph-Loop and AI</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#event sourcing</span></div>
+  <div class="bookmark-meta">youtu.be · 22 February</div>
 </div>
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://medium.com/@kp9810113/webflux-vs-virtual-threads-i-hit-both-with-100k-requests-one-struggled-badly-9f89f1c7163b">WebFlux vs Virtual Threads: I Hit Both with 100k Requests—One Struggled Badly</a></div>
-<div class="bookmark-meta">medium.com · September 6</div>
+  <div class="bookmark-title"><a href="https://www.codespeak.dev/?utm_source=substack&utm_medium=email#case-studies">CodeSpeak</a></div>
+  <div class="bookmark-tags"><span class="tag">#software development</span> <span class="tag">#code</span></div>
+  <div class="bookmark-meta">codespeak.dev · 13 February</div>
 </div>
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://open.substack.com/pub/vived/p/semantic-caching-with-spring-boot?utm_source=share&utm_medium=android&r=j1l7m">Semantic Caching with Spring Boot & Redis - JVM Weekly vol. 144</a></div>
-<div class="bookmark-meta">vived · September 4</div>
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/anguscolwell/p/my-top-50-london-restaurants-2026?utm_source=share&utm_medium=android&r=j1l7m">My Top 50 London Restaurants (2026 Edition)</a></div>
+  <div class="bookmark-meta">open.substack.com · 11 February</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://docs.spring.io/spring-modulith/reference/fundamentals.html">Fundamentals :: Spring Modulith</a></div>
+  <div class="bookmark-tags"><span class="tag">#ddd</span> <span class="tag">#spring-boot</span></div>
+  <div class="bookmark-meta">docs.spring.io · 10 February</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://youtube.com/watch?v=9COWKz1E32w&si=9JfW2Q0somHuOiI1">Facts and Myths about CQRS • Oskar Dudycz • Devoxx Poland 2023</a></div>
+  <div class="bookmark-tags"><span class="tag">#ddd</span></div>
+  <div class="bookmark-meta">youtube.com · 10 February</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://developer.microsoft.com/en-us/developer-experience">Developer experience | Microsoft Developer</a></div>
+  <div class="bookmark-meta">developer.microsoft.com · 3 February</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://codemanship.wordpress.com/2026/01/05/the-ai-ready-software-developer-conclusion-same-game-different-dice/">The AI-Ready Software Developer: Conclusion – Same Game, Different Dice</a></div>
+  <div class="bookmark-tags"><span class="tag">#software development</span></div>
+  <div class="bookmark-meta">codemanship.wordpress.com · 3 February</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://idealink.tech/blog/software-development-maintenance-true-cost-equation">Software Development vs Maintenance: The True Cost Equation | Idea Link</a></div>
+  <div class="bookmark-tags"><span class="tag">#software development</span></div>
+  <div class="bookmark-meta">idealink.tech · 3 February</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable">Don’t believe the hype: AGI is far from inevitable | Radboud University</a></div>
+  <div class="bookmark-tags"><span class="tag">#agent</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">ru.nl · 1 February</div>
 </div>
 
 ---
 
-### August 2025
+## January 2026
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://arxiv.org/html/2507.19703v1">The wall confronting large language models</a></div>
-<div class="bookmark-meta">arxiv.org · August 29</div>
+  <div class="bookmark-title"><a href="https://steve-yegge.medium.com/software-survival-3-0-97a2a6255f7b">Software Survival 3.0. I spent a lot of time writing software… | by Steve Yegge | Jan, 2026 | Medium</a></div>
+  <div class="bookmark-tags"><span class="tag">#software development</span> <span class="tag">#ai-code</span> <span class="tag">#agent</span></div>
+  <div class="bookmark-meta">steve-yegge.medium.com · 31 January</div>
 </div>
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://github.com/Kotlin/KEEP/blob/main/proposals/KEEP-0441-rich-errors-motivation.md?utm_source=substack&utm_medium=email">KEEP: Rich Errors Motivation for Kotlin</a></div>
-<div class="bookmark-meta">github.com · August 28</div>
+  <div class="bookmark-title"><a href="https://interconnected.org/home/2026/01/30/efficacy">Singing the gospel of collective efficacy (Interconnected)</a></div>
+  <div class="bookmark-meta">interconnected.org · 31 January</div>
 </div>
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://mccue.dev/pages/8-13-25-approximating-named-arguments?utm_source=chatgpt.com&utm_medium=email">Approximating Named Arguments in Java</a></div>
-<div class="bookmark-meta">mccue.dev · August 28</div>
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/architectureweekly/p/on-rebuilding-read-models-dead-letter?utm_source=share&utm_medium=android&r=j1l7m">On rebuilding read models, Dead-Letter Queues and Why Letting Go is Sometimes the Answer</a></div>
+  <div class="bookmark-tags"><span class="tag">#events</span> <span class="tag">#software development</span></div>
+  <div class="bookmark-meta">open.substack.com · 20 January</div>
 </div>
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://www.architecture-weekly.com/p/my-thoughts-on-vertical-slices-cqrs">My thoughts on Vertical Slices, CQRS, Semantic Diffusion and other fancy words</a></div>
-<div class="bookmark-meta">architecture-weekly.com · August 25</div>
+  <div class="bookmark-title"><a href="https://devblogs.microsoft.com/aspire/aspire-for-javascript-developers/">Aspire for JavaScript developers</a></div>
+  <div class="bookmark-tags"><span class="tag">#javascript</span> <span class="tag">#microservices</span> <span class="tag">#development</span></div>
+  <div class="bookmark-meta">devblogs.microsoft.com · 18 January</div>
 </div>
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://share.google/Bi8JQeWZmaz3l05PR">Spring Boot 4 and Spring Framework 7: Key Features and Changes</a></div>
-<div class="bookmark-meta">share.google · August 25</div>
+  <div class="bookmark-title"><a href="https://github.com/gunnarmorling/streaming-examples">gunnarmorling/streaming-examples: Example projects and demos around data streaming , stream processing, change data capture, and more.</a></div>
+  <div class="bookmark-meta">github.com · 15 January</div>
 </div>
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://open.substack.com/pub/thepalindrome/p/the-roadmap-of-mathematics-for-machine-learning?utm_source=share&utm_medium=android&r=j1l7m">The Roadmap of Mathematics for Machine Learning</a></div>
-<div class="bookmark-meta">thepalindrome · August 10</div>
+  <div class="bookmark-title"><a href="https://codemanship.wordpress.com/2026/01/13/clean-contexts/">Clean Contexts</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#development</span></div>
+  <div class="bookmark-meta">codemanship.wordpress.com · 14 January</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://ke-complex-modifications.pqrs.org/?q=uk%20windows%20-%3E%20uk%20mac">Karabiner-Elements complex_modifications rules</a></div>
+  <div class="bookmark-tags"><span class="tag">#macos</span></div>
+  <div class="bookmark-meta">ke-complex-modifications.pqrs.org · 13 January</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.dbreunig.com/2026/01/08/a-software-library-with-no-code.html">A Software Library with No Code</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#development</span> <span class="tag">#tdd</span></div>
+  <div class="bookmark-meta">dbreunig.com · 12 January</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://blog.ploeh.dk/2026/01/05/coupling-from-a-big-o-perspective/">Coupling from a big-O perspective</a></div>
+  <div class="bookmark-tags"><span class="tag">#development</span> <span class="tag">#coupling</span></div>
+  <div class="bookmark-meta">blog.ploeh.dk · 10 January</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/architectureweekly/p/rebuilding-event-driven-read-models?utm_source=share&utm_medium=android&shareImageVariant=overlay&r=j1l7m">Rebuilding Event-Driven Read Models in a safe and resilient way</a></div>
+  <div class="bookmark-tags"><span class="tag">#ddd</span></div>
+  <div class="bookmark-meta">open.substack.com · 6 January</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://xmolecules.org/aea-paper.pdf">Aea paper</a></div>
+  <div class="bookmark-tags"><span class="tag">#java</span> <span class="tag">#spring</span> <span class="tag">#ddd</span></div>
+  <div class="bookmark-meta">xmolecules.org · 3 January</div>
 </div>
 
 ---
 
-### July 2025
+## December 2025
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://m.youtube.com/watch?v=m9x93eqwow8">Build advanced AI Agents with PostgreSQL</a></div>
-<div class="bookmark-meta">youtube.com · July 31</div>
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/addyo/p/how-good-is-ai-at-coding-react-really?utm_source=share&utm_medium=android&shareImageVariant=overlay&r=j1l7m">How Good Is AI at Coding React (Really)?</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#web</span> <span class="tag">#typescript</span> <span class="tag">#javascript</span></div>
+  <div class="bookmark-meta">open.substack.com · 31 December</div>
 </div>
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/">Building a Full-Stack App with React and Aspire: A Step-by-Step Guide</a></div>
-<div class="bookmark-meta">devblogs.microsoft.com · July 31</div>
+  <div class="bookmark-title"><a href="https://www.linkedin.com/redir/redirect/?url=http%3A%2F%2Fmorling%2Edev&urlhash=5dLW&isSdui=true">Gunnar Morling</a></div>
+  <div class="bookmark-tags"><span class="tag">#kafka</span> <span class="tag">#events</span></div>
+  <div class="bookmark-meta">linkedin.com · 31 December</div>
 </div>
 
 <div class="bookmark">
-<div class="bookmark-title"><a href="https://blog.ploeh.dk/2025/07/14/song-recommendations-with-pipes-and-filters/">Song recommendations with pipes and filters</a></div>
-<div class="bookmark-meta">blog.ploeh.dk · July 28</div>
+  <div class="bookmark-title"><a href="https://www.arhohuttunen.com/test-data-builders/">How to Create a Test Data Builder | Code With Arho</a></div>
+  <div class="bookmark-tags"><span class="tag">#java</span> <span class="tag">#testing</span></div>
+  <div class="bookmark-meta">arhohuttunen.com · 30 December</div>
 </div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.petrikainulainen.net/programming/unit-testing/turning-assertions-into-a-domain-specific-language/">Turning Assertions Into a Domain-Specific Language - Petri Kainulainen</a></div>
+  <div class="bookmark-tags"><span class="tag">#testing</span> <span class="tag">#java</span></div>
+  <div class="bookmark-meta">petrikainulainen.net · 30 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://codemanship.wordpress.com/2025/11/26/what-is-a-good-software-developer-anyway/">What Is A “Good Software Developer”, Anyway?</a></div>
+  <div class="bookmark-tags"><span class="tag">#development</span> <span class="tag">#quality</span></div>
+  <div class="bookmark-meta">codemanship.wordpress.com · 30 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html">E.W.Dijkstra Archive: On the foolishness of "natural language programming". (EWD 667)</a></div>
+  <div class="bookmark-meta">cs.utexas.edu · 30 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://codescene.com/blog/strengthening-the-inner-developer-loop-turn-ai-into-a-reliable-engineering-partner">Strengthening the Inner Developer Loop: Turn AI Into a Reliable Engineering Partner</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">codescene.com · 30 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.oreilly.com/radar/on-exactitude-in-technical-debt/">On Exactitude in Technical Debt</a></div>
+  <div class="bookmark-tags"><span class="tag">#development</span></div>
+  <div class="bookmark-meta">oreilly.com · 30 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://kevlinhenney.medium.com/you-will-never-know-enough-d872c77f0b69">You Will Never Know Enough</a></div>
+  <div class="bookmark-meta">kevlinhenney.medium.com · 30 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://lmax-exchange.github.io/disruptor/disruptor.html">LMAX Disruptor: High performance alternative to bounded queues for exchanging data between concurrent threads</a></div>
+  <div class="bookmark-meta">lmax-exchange.github.io · 30 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://martinfowler.com/articles/lmax.html">The LMAX Architecture</a></div>
+  <div class="bookmark-meta">martinfowler.com · 30 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://blog.radapp.io/posts/2025/11/24/deploy-a-rag-chatbot-app-using-radius/">Deploy a RAG chatbot app using Radius</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#cloud</span></div>
+  <div class="bookmark-meta">blog.radapp.io · 30 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/practicaldataengineering/p/is-ducklake-a-step-backward?utm_source=share&utm_medium=android&shareImageVariant=overlay&r=j1l7m">Is DuckLake a Step Backward?</a></div>
+  <div class="bookmark-tags"><span class="tag">#data</span> <span class="tag">#database</span></div>
+  <div class="bookmark-meta">open.substack.com · 30 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://share.google/NfAblcrJIbKL7TGP1">[2512.21309] A Plan Reuse Mechanism for LLM-Driven Agent</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span></div>
+  <div class="bookmark-meta">share.google · 30 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.nytimes.com/2025/05/01/t-magazine/10-day-japan-itinerary-tokyo-kyoto-osaka.html?smid=nytcore-android-share">A Complete 10-Day Japan Itinerary With Stops in Toyko, Kyoto and Osaka</a></div>
+  <div class="bookmark-tags"><span class="tag">#travel</span> <span class="tag">#japan</span></div>
+  <div class="bookmark-meta">nytimes.com · 30 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://domeinmodel.nl/who-knows-this-source-code/">Who knows this source code?</a></div>
+  <div class="bookmark-tags"><span class="tag">#code</span> <span class="tag">#development</span></div>
+  <div class="bookmark-meta">domeinmodel.nl · 29 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.theguardian.com/culture/ng-interactive/2025/dec/06/the-best-books-of-2025?CMP=Share_AndroidApp_Other">The best books of 2025</a></div>
+  <div class="bookmark-meta">theguardian.com · 29 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://writethatblog.substack.com/p/why-write-engineering-blogs">Why Write Engineering Blogs</a></div>
+  <div class="bookmark-meta">writethatblog.substack.com · 28 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://github.com/lynnlangit/precision-medicine-mcp/tree/main/architecture">precision-medicine-mcp/architecture at main · lynnlangit/precision-medicine-mcp</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">github.com · 28 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://block.github.io/goose/docs/tutorials/rpi/">Research → Plan → Implement Pattern | goose</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#agent</span> <span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">block.github.io · 27 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://share.google/L0Qm52at8rzIuKjeF">GitHub - muratcankoylan/Agent-Skills-for-Context-Engineering: A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#agent</span></div>
+  <div class="bookmark-meta">share.google · 25 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fmartinfowler%2Ecom%2Farticles%2F20251204-frags%2Ehtml&urlhash=IKJd&isSdui=true">Fragments Dec 4</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">linkedin.com · 24 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fmicroservices%2Eio%2Fpost%2Farchitecture%2F2025%2F04%2F25%2Fmicroservices-authn-authz-part-1-introduction%2Ehtml&urlhash=-Y3g&isSdui=true">Authentication and authorization in a microservice architecture: Part 1 - Introduction</a></div>
+  <div class="bookmark-tags"><span class="tag">#authz</span> <span class="tag">#authn</span></div>
+  <div class="bookmark-meta">linkedin.com · 24 December</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fadamtornhill%2Ecom%2Farticles%2Fatari-vcs%2Fprogramming-like-in-1977%2Ehtml&urlhash=ghEb&isSdui=true">Redirect</a></div>
+  <div class="bookmark-meta">linkedin.com · 23 December</div>
+</div>
+
