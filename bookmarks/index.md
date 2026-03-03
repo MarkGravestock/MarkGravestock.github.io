@@ -39,15 +39,28 @@ A collection of useful things I've found on the web.
 ## March 2026
 
 <div class="bookmark">
-  <div class="bookmark-title"><a href="https://openai.com/index/scaling-postgresql/#image-80">Scaling PostgreSQL to power 800 million ChatGPT users | OpenAI</a></div>
+  <div class="bookmark-title"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7433351676616523776/">Simon Wardley on 'Fewer Engineers'</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">linkedin.com · 2 March</div>
+  <div class="bookmark-note">Quote: 'Back in January 2023, I did warn about the tiresome myths that we would see with the growth of vibe coding (aka conversational programming). One of these was the idea of "fewer engineers"'</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://nick-tune.me/blog/2026-02-28-hook-driven-dev-workflows-with-claude-code/">Hook-driven dev workflows with Claude Code - Nick Tune</a></div>
+  <div class="bookmark-tags"><span class="tag">#development</span> <span class="tag">#ai-code</span> <span class="tag">#claude</span> <span class="tag">#sdlc</span></div>
+  <div class="bookmark-meta">nick-tune.me · 2 March</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://openai.com/index/scaling-postgresql/#image-80">Scaling PostgreSQL to power 800 million ChatGPT users</a></div>
   <div class="bookmark-tags"><span class="tag">#postgres</span></div>
   <div class="bookmark-meta">openai.com · 2 March</div>
-  <div class="bookmark-note">Solution includes using PgBouncer as Proxy</div>
+  <div class="bookmark-note">Solution includes using PgBouncer as a Proxy</div>
 </div>
 
 <div class="bookmark">
   <div class="bookmark-title"><a href="https://www.wimdeblauwe.com/blog/2025/05/14/combine-testcontainers-and-spring-boot-with-multiple-containers/">Combine Testcontainers and Spring Boot with multiple containers</a></div>
-  <div class="bookmark-tags"><span class="tag">#spring-boot</span> <span class="tag">#java</span></div>
+  <div class="bookmark-tags"><span class="tag">#spring-boot</span> <span class="tag">#java</span> <span class="tag">#testcontainers</span></div>
   <div class="bookmark-meta">wimdeblauwe.com · 1 March</div>
 </div>
 
@@ -63,14 +76,15 @@ A collection of useful things I've found on the web.
 
 <div class="bookmark">
   <div class="bookmark-title"><a href="https://akamas.io/resources/the-state-of-java-on-kubernetes-2026-why-defaults-are-killing-your-performance/?utm_source=substack&utm_medium=email">Java on Kubernetes 2026: Fix Defaults, Boost Performance</a></div>
-  <div class="bookmark-tags"><span class="tag">#java</span></div>
+  <div class="bookmark-tags"><span class="tag">#java</span> <span class="tag">#k8s</span></div>
   <div class="bookmark-meta">akamas.io · 26 February</div>
 </div>
 
 <div class="bookmark">
-  <div class="bookmark-title"><a href="https://www.linkedin.com/posts/andyrichardson_there-comes-a-time-in-every-rapidly-growing-share-7431382402159194112-2d3l?utm_source=share&utm_medium=member_android&rcm=ACoAAACmXf4B8_MddEQprP34eTYn-rbE--Vn5Ic">Claude Code's Backlog Crisis: 6,383 Open Issues | Andy Richardson posted on the topic | LinkedIn</a></div>
+  <div class="bookmark-title"><a href="https://www.linkedin.com/posts/andyrichardson_there-comes-a-time-in-every-rapidly-growing-share-7431382402159194112-2d3l?utm_source=share&utm_medium=member_android&rcm=ACoAAACmXf4B8_MddEQprP34eTYn-rbE--Vn5Ic">Claude Code's Backlog Crisis: 6,383 Open Issues</a></div>
   <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#software development</span></div>
   <div class="bookmark-meta">linkedin.com · 24 February</div>
+  <div class="bookmark-note">Interesting given the claimed level of use AI by Anthropic developing Claude Code.</div>
 </div>
 
 <div class="bookmark">
@@ -80,7 +94,7 @@ A collection of useful things I've found on the web.
 </div>
 
 <div class="bookmark">
-  <div class="bookmark-title"><a href="https://arxiv.org/pdf/2501.12948">2501.12948v2.pdf</a></div>
+  <div class="bookmark-title"><a href="https://arxiv.org/pdf/2501.12948">DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a></div>
   <div class="bookmark-tags"><span class="tag">#ai</span></div>
   <div class="bookmark-meta">arxiv.org · 22 February</div>
 </div>
@@ -95,6 +109,7 @@ A collection of useful things I've found on the web.
   <div class="bookmark-title"><a href="https://www.codespeak.dev/?utm_source=substack&utm_medium=email#case-studies">CodeSpeak</a></div>
   <div class="bookmark-tags"><span class="tag">#software development</span> <span class="tag">#code</span></div>
   <div class="bookmark-meta">codespeak.dev · 13 February</div>
+  <div class="bookmark-note">New programming approach from the creator of Kotlin</div>
 </div>
 
 <div class="bookmark">
@@ -112,11 +127,6 @@ A collection of useful things I've found on the web.
   <div class="bookmark-title"><a href="https://youtube.com/watch?v=9COWKz1E32w&si=9JfW2Q0somHuOiI1">Facts and Myths about CQRS • Oskar Dudycz • Devoxx Poland 2023</a></div>
   <div class="bookmark-tags"><span class="tag">#ddd</span></div>
   <div class="bookmark-meta">youtube.com · 10 February</div>
-</div>
-
-<div class="bookmark">
-  <div class="bookmark-title"><a href="https://developer.microsoft.com/en-us/developer-experience">Developer experience | Microsoft Developer</a></div>
-  <div class="bookmark-meta">developer.microsoft.com · 3 February</div>
 </div>
 
 <div class="bookmark">
@@ -142,7 +152,7 @@ A collection of useful things I've found on the web.
 ## January 2026
 
 <div class="bookmark">
-  <div class="bookmark-title"><a href="https://steve-yegge.medium.com/software-survival-3-0-97a2a6255f7b">Software Survival 3.0. I spent a lot of time writing software… | by Steve Yegge | Jan, 2026 | Medium</a></div>
+  <div class="bookmark-title"><a href="https://steve-yegge.medium.com/software-survival-3-0-97a2a6255f7b">Software Survival 3.0. I spent a lot of time writing software… by Steve Yegge</a></div>
   <div class="bookmark-tags"><span class="tag">#software development</span> <span class="tag">#ai-code</span> <span class="tag">#agent</span></div>
   <div class="bookmark-meta">steve-yegge.medium.com · 31 January</div>
 </div>
@@ -200,9 +210,10 @@ A collection of useful things I've found on the web.
 </div>
 
 <div class="bookmark">
-  <div class="bookmark-title"><a href="https://xmolecules.org/aea-paper.pdf">Aea paper</a></div>
-  <div class="bookmark-tags"><span class="tag">#java</span> <span class="tag">#spring</span> <span class="tag">#ddd</span></div>
+  <div class="bookmark-title"><a href="https://xmolecules.org/aea-paper.pdf">Architecturally Evident Applications– How to Bridge the Model-Code Gap</a></div>
+  <div class="bookmark-tags"><span class="tag">#java</span> <span class="tag">#spring</span> <span class="tag">#ddd</span> <span class="tag">#jmolecules</span></div>
   <div class="bookmark-meta">xmolecules.org · 3 January</div>
+  <div class="bookmark-note">Paper from Spring Modulith/JMolecules author</div>
 </div>
 
 ---
