@@ -39,6 +39,13 @@ A collection of useful things I've found on the web.
 ## March 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html">Humans and Agents in Software Engineering Loops</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span> <span class="tag">#development</span></div>
+  <div class="bookmark-meta">martinfowler.com · 4 March</div>
+  <div class="bookmark-note">Interesting classification of different patterns</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7433351676616523776/">Simon Wardley on 'Fewer Engineers'</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
   <div class="bookmark-meta">linkedin.com · 2 March</div>
