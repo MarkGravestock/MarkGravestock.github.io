@@ -39,6 +39,27 @@ A collection of useful things I've found on the web.
 ## March 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://github.com/NTCoding/autonomous-claude-agent-team">NTCoding/autonomous-claude-agent-team</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#sdlc</span> <span class="tag">#agent</span></div>
+  <div class="bookmark-meta">github.com · 6 March</div>
+  <div class="bookmark-note">DDD designed solution with Event sourcing</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://nick-tune.me/blog/2026-03-01-workflow-dsl-domain-driven-claude-code-workflows/">Claude Code workflows as DSL-driven domain models - Nick Tune</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#development</span> <span class="tag">#sdlc</span> <span class="tag">#agent</span></div>
+  <div class="bookmark-meta">nick-tune.me · 5 March</div>
+  <div class="bookmark-note">Models agent workflow using Domain model</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://developersvoice.com/blog/architecture/solid-to-cupid-playbook/">From SOLID to CUPID: Design Principles That Survive Production in Cloud-Native .NET</a></div>
+  <div class="bookmark-tags"><span class="tag">#cupid</span> <span class="tag">#development</span> <span class="tag">#.net</span></div>
+  <div class="bookmark-meta">developersvoice.com · 5 March</div>
+  <div class="bookmark-note">Some pracitical guidance on CUPID principles with examples in C#/NET</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html">Humans and Agents in Software Engineering Loops</a></div>
   <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span> <span class="tag">#development</span></div>
   <div class="bookmark-meta">martinfowler.com · 4 March</div>
