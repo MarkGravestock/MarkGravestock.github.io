@@ -39,10 +39,16 @@ A collection of useful things I've found on the web.
 ## March 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/">How I Audit a Legacy Rails Codebase in the First Week</a></div>
+  <div class="bookmark-tags"><span class="tag">#development</span> <span class="tag">#sdlc</span></div>
+  <div class="bookmark-meta">piechowski.io · 7 March</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://github.com/NTCoding/autonomous-claude-agent-team">NTCoding/autonomous-claude-agent-team</a></div>
   <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#sdlc</span> <span class="tag">#agent</span></div>
   <div class="bookmark-meta">github.com · 6 March</div>
-  <div class="bookmark-note">DDD designed solution with Event sourcing</div>
+  <div class="bookmark-note">SDLC for agents designed using DDD with Event sourcing</div>
 </div>
 
 <div class="bookmark">
@@ -63,7 +69,7 @@ A collection of useful things I've found on the web.
   <div class="bookmark-title"><a href="https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html">Humans and Agents in Software Engineering Loops</a></div>
   <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span> <span class="tag">#development</span></div>
   <div class="bookmark-meta">martinfowler.com · 4 March</div>
-  <div class="bookmark-note">Interesting classification of different patterns</div>
+  <div class="bookmark-note">Interesting classification of different human sypervision patterns</div>
 </div>
 
 <div class="bookmark">
