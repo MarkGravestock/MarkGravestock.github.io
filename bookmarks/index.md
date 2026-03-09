@@ -39,9 +39,24 @@ A collection of useful things I've found on the web.
 ## March 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything">Quoting Joseph Weizenbaum</a></div>
+  <div class="bookmark-tags"><span class="tag">#Inoreader</span></div>
+  <div class="bookmark-meta">simonwillison.net · 8 March</div>
+  <div class="bookmark-note">Quote: 'What I had not realized is that extremely short exposures to a relatively simple computer program could induce powerful delusional thinking in quite normal people.'</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://awesome-java-ui.com/htmx-spring-boot.html">HTMX + Spring Boot - Awesome Java UI</a></div>
+  <div class="bookmark-tags"><span class="tag">#java</span> <span class="tag">#spring-boot</span> <span class="tag">#ui</span></div>
+  <div class="bookmark-meta">awesome-java-ui.com · 8 March</div>
+  <div class="bookmark-note">Alternative to Spring + React for simple admin UIs</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/">How I Audit a Legacy Rails Codebase in the First Week</a></div>
   <div class="bookmark-tags"><span class="tag">#development</span> <span class="tag">#sdlc</span></div>
   <div class="bookmark-meta">piechowski.io · 7 March</div>
+  <div class="bookmark-note">A useful list of things to think about when reviewing a new codebase</div>
 </div>
 
 <div class="bookmark">
