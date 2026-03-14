@@ -39,6 +39,12 @@ A collection of useful things I've found on the web.
 ## March 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://share.google/TK9Gj0WWWb0UaQ4pG">JetBrains names the debt AI agents leave behind - The New Stack</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#JetBrains</span></div>
+  <div class="bookmark-meta">share.google · 13 March</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything">Quoting Joseph Weizenbaum</a></div>
   <div class="bookmark-tags"><span class="tag">#Inoreader</span></div>
   <div class="bookmark-meta">simonwillison.net · 8 March</div>
