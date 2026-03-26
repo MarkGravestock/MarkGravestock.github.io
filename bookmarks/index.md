@@ -39,6 +39,13 @@ A collection of useful things I've found on the web.
 ## March 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything">Auto mode for Claude Code</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#claude</span></div>
+  <div class="bookmark-meta">simonwillison.net · 25 March</div>
+  <div class="bookmark-note">Claude has added a feature which has more permissive permission which are reviewed by an agent</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://share.google/TK9Gj0WWWb0UaQ4pG">JetBrains names the debt AI agents leave behind - The New Stack</a></div>
   <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#JetBrains</span></div>
   <div class="bookmark-meta">share.google · 13 March</div>
