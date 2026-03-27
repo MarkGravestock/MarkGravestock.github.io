@@ -39,6 +39,13 @@ A collection of useful things I've found on the web.
 ## March 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.linkedin.com/feed/update/urn:li:share:7438994125242286081/?originTrackingId=7NQQyjV%2FAto9NbLiE0LBsg%3D%3D">(1) Post | Feed | LinkedIn</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">linkedin.com · 26 March</div>
+  <div class="bookmark-note">Links to some research about how LLMs 'analyse' code</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything">Auto mode for Claude Code</a></div>
   <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#claude</span></div>
   <div class="bookmark-meta">simonwillison.net · 25 March</div>
