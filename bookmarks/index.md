@@ -39,7 +39,22 @@ A collection of useful things I've found on the web.
 ## March 2026
 
 <div class="bookmark">
-  <div class="bookmark-title"><a href="https://www.linkedin.com/feed/update/urn:li:share:7438994125242286081/?originTrackingId=7NQQyjV%2FAto9NbLiE0LBsg%3D%3D">(1) Post | Feed | LinkedIn</a></div>
+  <div class="bookmark-title"><a href="https://blog.ploeh.dk/2026/03/30/programming-languages-for-ai/">Programming languages for AI</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#development</span></div>
+  <div class="bookmark-meta">blog.ploeh.dk · 30 March</div>
+  <div class="bookmark-note">Should devs look at generated code?
+Note another reason for using e.g. python is amount in training dats</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://juxt.github.io/allium/">Allium LLM-native spec language</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#spec-driven</span></div>
+  <div class="bookmark-meta">juxt.github.io · 29 March</div>
+  <div class="bookmark-note">Language to express specifications in a consistent fashion that can be used by LLM to help drive implementations.</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.linkedin.com/feed/update/urn:li:share:7438994125242286081/?originTrackingId=7NQQyjV%2FAto9NbLiE0LBsg%3D%3D">𝗟𝗟𝗠𝘀 𝗔𝗿𝗲 𝗡𝗼𝘁 𝗥𝗲𝗮𝗱𝗶𝗻𝗴 𝗬𝗼𝘂𝗿 𝗖𝗼𝗱𝗲</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span></div>
   <div class="bookmark-meta">linkedin.com · 26 March</div>
   <div class="bookmark-note">Links to some research about how LLMs 'analyse' code</div>
