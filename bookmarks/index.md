@@ -39,6 +39,27 @@ A collection of useful things I've found on the web.
 ## March 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.architecture-weekly.com/p/the-one-where-oskar-explains-example">The one where Oskar explains Example Mapping</a></div>
+  <div class="bookmark-tags"><span class="tag">#sdlc</span> <span class="tag">#specification</span></div>
+  <div class="bookmark-meta">architecture-weekly.com · 31 March</div>
+  <div class="bookmark-note">Good examples of 'example mapping'</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://github.com/jasisz/aver">GitHub - jasisz/aver: Aver is a programming language for auditable AI-written code: verify in source, deploy with Rust, prove with Lean/Dafny · GitHub</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">github.com · 30 March</div>
+  <div class="bookmark-note">Interesting idea, but would it make a material improvement over and above languages that are heavily represented in the training data</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://javaevolved.github.io/">java.evolved Code Snippets | java.evolved</a></div>
+  <div class="bookmark-tags"><span class="tag">#java</span></div>
+  <div class="bookmark-meta">javaevolved.github.io · 30 March</div>
+  <div class="bookmark-note">All the modern java goodness illustrated....</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://blog.ploeh.dk/2026/03/30/programming-languages-for-ai/">Programming languages for AI</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#development</span></div>
   <div class="bookmark-meta">blog.ploeh.dk · 30 March</div>
