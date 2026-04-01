@@ -39,6 +39,18 @@ A collection of useful things I've found on the web.
 ## March 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://share.google/24aMOyutdH2u3udib">everything-claude-code: The agent harness performance optimization system.</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">share.google · 31 March</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://vladikk.com/2026/03/30/solid-principles-ai-era/">Are SOLID Principles Still Relevant in the AI Era?</a></div>
+  <div class="bookmark-tags"><span class="tag">#development</span></div>
+  <div class="bookmark-meta">vladikk.com · 31 March</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://www.architecture-weekly.com/p/the-one-where-oskar-explains-example">The one where Oskar explains Example Mapping</a></div>
   <div class="bookmark-tags"><span class="tag">#sdlc</span> <span class="tag">#specification</span></div>
   <div class="bookmark-meta">architecture-weekly.com · 31 March</div>
