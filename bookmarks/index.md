@@ -36,6 +36,22 @@ title: Bookmarks
 
 A collection of useful things I've found on the web.
 
+## April 2026
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://simonwillison.net/2026/Apr/1/soohoon-choi/#atom-everything">Quoting Soohoon Choi</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">simonwillison.net · 1 April</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.estragon.news/mr-chatterbox-or-the-modern-prometheus/">Mr. Chatterbox, or, The Modern Prometheus</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#training</span></div>
+  <div class="bookmark-meta">estragon.news · 1 April</div>
+</div>
+
+---
+
 ## March 2026
 
 <div class="bookmark">
