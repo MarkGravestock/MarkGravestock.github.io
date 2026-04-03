@@ -39,6 +39,26 @@ A collection of useful things I've found on the web.
 ## April 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://thenewstack.io/ai-programming-languages-future/">Will AI force code to evolve or make it extinct? - The New Stack</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">thenewstack.io · 2 April</div>
+  <div class="bookmark-note">Article on options for programming languages for agents</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://martinfowler.com/articles/harness-engineering.html">Harness engineering for coding agent users</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">martinfowler.com · 2 April</div>
+  <div class="bookmark-note">Model of agentic harnesses</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/pmresearcher/p/what-comes-after-systems-thinking?utm_source=share&utm_medium=android&r=j1l7m">What Comes After Systems Thinking</a></div>
+  <div class="bookmark-tags"><span class="tag">#systems thinking</span> <span class="tag">#complexity</span></div>
+  <div class="bookmark-meta">open.substack.com · 2 April</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://simonwillison.net/2026/Apr/1/soohoon-choi/#atom-everything">Quoting Soohoon Choi</a></div>
   <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span></div>
   <div class="bookmark-meta">simonwillison.net · 1 April</div>
