@@ -39,6 +39,25 @@ A collection of useful things I've found on the web.
 ## April 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://simonwillison.net/2026/Apr/3/greg-kroah-hartman/#atom-everything">Quoting Greg Kroah-Hartman</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">simonwillison.net · 4 April</div>
+  <div class="bookmark-note">How AI bug reports have changed from being slop tobeijg valid</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.scirp.org/journal/paperinformation?paperid=137296">How Does Naming Affect Language Models on Code Analysis Tasks</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">scirp.org · 3 April</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7445170297365803008/?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287445451683880488960%2Curn%3Ali%3Aactivity%3A7445170297365803008%29">Claude Code's source code appears to have leaked: here's what we know | Mike Mason | 10 comments</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">linkedin.com · 3 April</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://thenewstack.io/ai-programming-languages-future/">Will AI force code to evolve or make it extinct? - The New Stack</a></div>
   <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span></div>
   <div class="bookmark-meta">thenewstack.io · 2 April</div>
