@@ -42,7 +42,13 @@ A collection of useful things I've found on the web.
   <div class="bookmark-title"><a href="https://simonwillison.net/2026/Apr/3/greg-kroah-hartman/#atom-everything">Quoting Greg Kroah-Hartman</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
   <div class="bookmark-meta">simonwillison.net · 4 April</div>
-  <div class="bookmark-note">How AI bug reports have changed from being slop tobeijg valid</div>
+  <div class="bookmark-note">How AI bug reports have changed from being slop to being valid security issues</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html?smid=nytcore-android-share">How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company</a></div>
+  <div class="bookmark-meta">nytimes.com · 3 April</div>
+  <div class="bookmark-note">The backbone seems to be an outsourced service that does the heavy lifting of providing the GLP-1 drugs</div>
 </div>
 
 <div class="bookmark">
@@ -52,7 +58,7 @@ A collection of useful things I've found on the web.
 </div>
 
 <div class="bookmark">
-  <div class="bookmark-title"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7445170297365803008/?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287445451683880488960%2Curn%3Ali%3Aactivity%3A7445170297365803008%29">Claude Code's source code appears to have leaked: here's what we know | Mike Mason | 10 comments</a></div>
+  <div class="bookmark-title"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7445170297365803008/?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287445451683880488960%2Curn%3Ali%3Aactivity%3A7445170297365803008%29">Claude Code's source code appears to have leaked: here's what we know</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
   <div class="bookmark-meta">linkedin.com · 3 April</div>
 </div>
