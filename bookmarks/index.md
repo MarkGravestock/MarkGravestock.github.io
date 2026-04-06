@@ -39,6 +39,12 @@ A collection of useful things I've found on the web.
 ## April 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://lalitm.com/post/building-syntaqlite-ai/">Eight years of wanting, three months of building with AI - Lalit Maganti</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">lalitm.com · 6 April</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://simonwillison.net/2026/Apr/3/greg-kroah-hartman/#atom-everything">Quoting Greg Kroah-Hartman</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
   <div class="bookmark-meta">simonwillison.net · 4 April</div>
