@@ -39,6 +39,24 @@ A collection of useful things I've found on the web.
 ## April 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://davidwhitney.co.uk/blog/2026/03/11/co_design_with_agents/?utm_source=substack&utm_medium=email">The Programmers's Guide to Co-Designing with Agents - david whitney, agile & software practices in london</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">davidwhitney.co.uk · 7 April</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://ian-cooper.writeas.com/coding-is-dead-long-live-programming?utm_source=substack&utm_medium=email">Coding Is Dead, Long Live Programming — Ian Cooper - Staccato Signals</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">ian-cooper.writeas.com · 7 April</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/pmresearcher/p/after-systems-thinking-comes-ashbys?utm_source=share&utm_medium=android&r=j1l7m">After Systems Thinking, Comes Ashby’s Law</a></div>
+  <div class="bookmark-tags"><span class="tag">#systems thinking</span> <span class="tag">#complexity</span></div>
+  <div class="bookmark-meta">open.substack.com · 6 April</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://lalitm.com/post/building-syntaqlite-ai/">Eight years of wanting, three months of building with AI - Lalit Maganti</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
   <div class="bookmark-meta">lalitm.com · 6 April</div>
