@@ -39,6 +39,11 @@ A collection of useful things I've found on the web.
 ## April 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/">JUXT Blog: A bug on the dark side of the Moon</a></div>
+  <div class="bookmark-meta">juxt.pro · 7 April</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://davidwhitney.co.uk/blog/2026/03/11/co_design_with_agents/?utm_source=substack&utm_medium=email">The Programmers's Guide to Co-Designing with Agents - david whitney, agile & software practices in london</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
   <div class="bookmark-meta">davidwhitney.co.uk · 7 April</div>
