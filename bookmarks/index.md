@@ -39,6 +39,12 @@ A collection of useful things I've found on the web.
 ## April 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="http://tropes.md">tropes.md - Tropes</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#writing</span></div>
+  <div class="bookmark-meta">tropes.md · 8 April</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/">JUXT Blog: A bug on the dark side of the Moon</a></div>
   <div class="bookmark-meta">juxt.pro · 7 April</div>
 </div>
