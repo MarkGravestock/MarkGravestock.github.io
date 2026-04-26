@@ -39,6 +39,16 @@ A collection of useful things I've found on the web.
 ## April 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://github.com/ChrisTitusTech/winutil">GitHub - ChrisTitusTech/winutil: Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates · GitHub</a></div>
+  <div class="bookmark-meta">github.com · 26 April</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/pmresearcher/p/the-logic-of-complex-systems?utm_source=share&utm_medium=android&r=j1l7m">The Logic of Complex Systems</a></div>
+  <div class="bookmark-meta">open.substack.com · 25 April</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://tropes.fyi/tropes-md">tropes.md - Tropes</a></div>
   <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#writing</span></div>
   <div class="bookmark-meta">tropes.fyi · 8 April</div>
