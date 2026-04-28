@@ -39,6 +39,12 @@ A collection of useful things I've found on the web.
 ## April 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://ian-cooper.writeas.com/the-friction-that-stopped-waste">The Friction That Stopped Waste — Ian Cooper - Staccato Signals</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">ian-cooper.writeas.com · 28 April</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://github.com/ChrisTitusTech/winutil">GitHub - ChrisTitusTech/winutil: Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates · GitHub</a></div>
   <div class="bookmark-meta">github.com · 26 April</div>
 </div>
