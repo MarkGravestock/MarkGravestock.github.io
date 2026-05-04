@@ -36,6 +36,15 @@ title: Bookmarks
 
 A collection of useful things I've found on the web.
 
+## May 2026
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.feynman.is/">Feynman — The open source AI research agent</a></div>
+  <div class="bookmark-meta">feynman.is · 3 May</div>
+</div>
+
+---
+
 ## April 2026
 
 <div class="bookmark">
