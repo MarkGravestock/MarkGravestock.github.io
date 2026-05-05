@@ -39,6 +39,12 @@ A collection of useful things I've found on the web.
 ## May 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="http://webshop-demo/.claude/skills/analyze-flaky-coverage/SKILL.md">webshop-demo/.claude/skills/analyze-flaky-coverage/SKILL.md at main · flounder4130/webshop-demo · GitHub</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#skill</span></div>
+  <div class="bookmark-meta">webshop-demo · 4 May</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://www.feynman.is/">Feynman — The open source AI research agent</a></div>
   <div class="bookmark-meta">feynman.is · 3 May</div>
 </div>
