@@ -39,6 +39,30 @@ A collection of useful things I've found on the web.
 ## May 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://github.com/Shopify/liquid/pull/2056">Performance: 53% faster parse+render, 61% fewer allocations by tobi · Pull Request #2056 · Shopify/liquid · GitHub</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">github.com · 19 May</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://github.com/embabel/embabel-air">embabel/embabel-air: Airline chatbot demo for Embabel</a></div>
+  <div class="bookmark-tags"><span class="tag">#spring-boot</span> <span class="tag">#java</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">github.com · 18 May</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/vived/p/code-remix-summit-postcard-from-miami?r=j1l7m&utm_campaign=post-expanded-share&utm_medium=web">Code Remix Summit: Postcard from Miami - JVM Weekly vol. 175</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#java</span> <span class="tag">#spring-boot</span></div>
+  <div class="bookmark-meta">open.substack.com · 18 May</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://arxiv.org/abs/2605.15871">Agentic Discovery of Neural Architectures: AIRA-Compose and AIRA-Design</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span></div>
+  <div class="bookmark-meta">arxiv.org · 18 May</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="http://webshop-demo/.claude/skills/analyze-flaky-coverage/SKILL.md">webshop-demo/.claude/skills/analyze-flaky-coverage/SKILL.md at main · flounder4130/webshop-demo · GitHub</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#skill</span></div>
   <div class="bookmark-meta">webshop-demo · 4 May</div>
