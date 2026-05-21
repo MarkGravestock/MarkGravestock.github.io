@@ -39,6 +39,18 @@ A collection of useful things I've found on the web.
 ## May 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules">Maintainability sensors for coding agents</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">martinfowler.com · 20 May</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://red.anthropic.com/2026/property-based-testing/">Property-Based Testing with Claude \ red.anthropic.com</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">red.anthropic.com · 20 May</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://github.com/Shopify/liquid/pull/2056">Performance: 53% faster parse+render, 61% fewer allocations by tobi · Pull Request #2056 · Shopify/liquid · GitHub</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span></div>
   <div class="bookmark-meta">github.com · 19 May</div>
