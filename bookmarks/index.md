@@ -39,6 +39,12 @@ A collection of useful things I've found on the web.
 ## May 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.faros.ai/blog/ai-software-engineering">The AI Productivity Paradox Research Report</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">faros.ai · 21 May</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules">Maintainability sensors for coding agents</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
   <div class="bookmark-meta">martinfowler.com · 20 May</div>
