@@ -46,7 +46,7 @@ A collection of useful things I've found on the web.
 
 <div class="bookmark">
   <div class="bookmark-title"><a href="https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules">Maintainability sensors for coding agents</a></div>
-  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span> <span class="tag">#testing</span></div>
   <div class="bookmark-meta">martinfowler.com · 20 May</div>
 </div>
 
