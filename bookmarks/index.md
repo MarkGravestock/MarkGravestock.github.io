@@ -39,6 +39,12 @@ A collection of useful things I've found on the web.
 ## May 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://dev.to/tacoda/the-agent-harness-turning-ai-slop-into-shipping-software-589i">The Agent Harness: Turning AI Slop Into Shipping Software - DEV Community</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">dev.to · 28 May</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://www.faros.ai/blog/ai-software-engineering">The AI Productivity Paradox Research Report</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
   <div class="bookmark-meta">faros.ai · 21 May</div>
