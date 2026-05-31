@@ -39,6 +39,11 @@ A collection of useful things I've found on the web.
 ## May 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/adamtornhill/p/make-the-domain-explicit-from-procedural?utm_source=share&utm_medium=android&r=j1l7m">Make the Domain Explicit: From Procedural Mess to Local Reasoning</a></div>
+  <div class="bookmark-meta">open.substack.com · 30 May</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://dev.to/tacoda/the-agent-harness-turning-ai-slop-into-shipping-software-589i">The Agent Harness: Turning AI Slop Into Shipping Software - DEV Community</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
   <div class="bookmark-meta">dev.to · 28 May</div>
