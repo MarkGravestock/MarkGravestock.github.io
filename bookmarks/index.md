@@ -39,6 +39,12 @@ A collection of useful things I've found on the web.
 ## May 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/adamtornhill/p/a-blast-from-the-past-sdd-and-the?utm_source=share&utm_medium=android&r=j1l7m">A Blast from the Past: SDD and the Illusion of Known Scope</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#spec-driven</span></div>
+  <div class="bookmark-meta">open.substack.com · 31 May</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://open.substack.com/pub/adamtornhill/p/make-the-domain-explicit-from-procedural?utm_source=share&utm_medium=android&r=j1l7m">Make the Domain Explicit: From Procedural Mess to Local Reasoning</a></div>
   <div class="bookmark-meta">open.substack.com · 30 May</div>
 </div>
