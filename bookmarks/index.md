@@ -36,6 +36,16 @@ title: Bookmarks
 
 A collection of useful things I've found on the web.
 
+## June 2026
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/adamtornhill/p/clear-software-design-principles?utm_source=share&utm_medium=android&r=j1l7m">CLEAR: Software Design Principles for the Agentic Age</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">open.substack.com · 9 June</div>
+</div>
+
+---
+
 ## May 2026
 
 <div class="bookmark">
