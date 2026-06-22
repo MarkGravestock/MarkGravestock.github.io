@@ -39,6 +39,12 @@ A collection of useful things I've found on the web.
 ## June 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.julien-dubois.com/boot-ui/features">BootUI</a></div>
+  <div class="bookmark-tags"><span class="tag">#spring-boot</span></div>
+  <div class="bookmark-meta">julien-dubois.com · 21 June</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://share.google/47gjK5p8eYfwqUJXr">DuckDB Ecosystem Newsletter : June 2026</a></div>
   <div class="bookmark-tags"><span class="tag">#olap</span> <span class="tag">#data</span> <span class="tag">#datamesh</span> <span class="tag">#database</span></div>
   <div class="bookmark-meta">share.google · 14 June</div>
