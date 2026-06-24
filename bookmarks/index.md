@@ -39,6 +39,11 @@ A collection of useful things I've found on the web.
 ## June 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://role-confusion.github.io/">Prompt Injection as Role Confusion</a></div>
+  <div class="bookmark-meta">role-confusion.github.io · 23 June</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://www.julien-dubois.com/boot-ui/features">BootUI</a></div>
   <div class="bookmark-tags"><span class="tag">#spring-boot</span></div>
   <div class="bookmark-meta">julien-dubois.com · 21 June</div>
