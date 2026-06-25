@@ -39,6 +39,17 @@ A collection of useful things I've found on the web.
 ## June 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://adamtornhill.substack.com/p/an-opinionated-and-mainly-correct">An opinionated (and mainly correct) guide to naming</a></div>
+  <div class="bookmark-meta">adamtornhill.substack.com · 24 June</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.linkedin.com/posts/jasongorman_im-seeing-more-and-more-people-arriving-share-7475453482825859073-Rw_z/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAACmXf4B8_MddEQprP34eTYn-rbE--Vn5Ic&utm_campaign=share_via">I'm seeing more and more people arriving at this kind of workflow. Small steps, testing and reviewing continuously themselves, keeping the agent on a very tight leash. | Jason Gorman</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">linkedin.com · 24 June</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://role-confusion.github.io/">Prompt Injection as Role Confusion</a></div>
   <div class="bookmark-meta">role-confusion.github.io · 23 June</div>
 </div>
