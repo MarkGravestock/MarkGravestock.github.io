@@ -39,6 +39,18 @@ A collection of useful things I've found on the web.
 ## June 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://drive.google.com/file/d/1qzKI4DKnyHRpXK1J3ATPqwaqLc0iNu-M/view">Loop-Engineering-IEEE.pdf</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">drive.google.com · 25 June</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://arxiv.org/pdf/2605.18747">https://arxiv.org/pdf/2605.18747</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">arxiv.org · 25 June</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://adamtornhill.substack.com/p/an-opinionated-and-mainly-correct">An opinionated (and mainly correct) guide to naming</a></div>
   <div class="bookmark-meta">adamtornhill.substack.com · 24 June</div>
 </div>
