@@ -39,6 +39,11 @@ A collection of useful things I've found on the web.
 ## June 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.linkedin.com/posts/stephan-eggermont-825a001_gtoolkit-moldabledevelopment-share-7475976027748614144-_SGN/?utm_source=share&utm_medium=member_android&rcm=ACoAAACmXf4B8_MddEQprP34eTYn-rbE--Vn5Ic">#gtoolkit #moldabledevelopment | Stephan Eggermont</a></div>
+  <div class="bookmark-meta">linkedin.com · 26 June</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://drive.google.com/file/d/1qzKI4DKnyHRpXK1J3ATPqwaqLc0iNu-M/view">Loop-Engineering-IEEE.pdf</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span></div>
   <div class="bookmark-meta">drive.google.com · 25 June</div>
