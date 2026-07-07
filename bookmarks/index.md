@@ -39,6 +39,22 @@ A collection of useful things I've found on the web.
 ## July 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://verraes.net/2026/07/software-design-in-the-agentic-age/">Software Design in the Agentic Age: Place Your Bets</a></div>
+  <div class="bookmark-meta">verraes.net · 7 July</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://adamtornhill.substack.com/p/welcome-to-code-for-humans-and-machines">Welcome to Code for Humans and Machines! - by Adam Tornhill</a></div>
+  <div class="bookmark-meta">adamtornhill.substack.com · 7 July</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/adamtornhill/p/why-human-level-ai-wont-be-enough?utm_source=share&utm_medium=android&r=j1l7m">Why Human-Level AI Won't Be Enough</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">open.substack.com · 6 July</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://www.linkedin.com/posts/tonyseale_there-are-two-important-things-happening-share-7478553770008743937-7S5U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACmXf4B8_MddEQprP34eTYn-rbE--Vn5Ic">There are two important things happening in AI right now, and nobody has put them together. At the cutting edge, agent builders are converging on the same discovery: the simplest way to give an… | Tony Seale | 177 comments</a></div>
   <div class="bookmark-meta">linkedin.com · 4 July</div>
 </div>
