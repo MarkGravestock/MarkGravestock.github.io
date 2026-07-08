@@ -39,6 +39,12 @@ A collection of useful things I've found on the web.
 ## July 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://wolverinefx.io/tutorials/cqrs-with-marten.html">Wolverine</a></div>
+  <div class="bookmark-tags"><span class="tag">#dotnet</span> <span class="tag">#event sourcing</span> <span class="tag">#events</span></div>
+  <div class="bookmark-meta">wolverinefx.io · 8 July</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://verraes.net/2026/07/software-design-in-the-agentic-age/">Software Design in the Agentic Age: Place Your Bets</a></div>
   <div class="bookmark-meta">verraes.net · 7 July</div>
 </div>
