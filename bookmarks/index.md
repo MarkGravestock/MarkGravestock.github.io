@@ -39,6 +39,12 @@ A collection of useful things I've found on the web.
 ## July 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://share.google/TpHcJjhgg587aff1p">Microsoft Agent Framework Workflows | Microsoft Learn</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">share.google · 8 July</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://wolverinefx.io/tutorials/cqrs-with-marten.html">Wolverine</a></div>
   <div class="bookmark-tags"><span class="tag">#dotnet</span> <span class="tag">#event sourcing</span> <span class="tag">#events</span></div>
   <div class="bookmark-meta">wolverinefx.io · 8 July</div>
