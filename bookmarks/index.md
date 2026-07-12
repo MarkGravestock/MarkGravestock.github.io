@@ -39,6 +39,12 @@ A collection of useful things I've found on the web.
 ## July 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://share.google/Msxx3pVDS2y3Kjmdy">Agentic AI in observability: accelerating root cause analysis - The New Stack</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#observability</span></div>
+  <div class="bookmark-meta">share.google · 11 July</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://share.google/TpHcJjhgg587aff1p">Microsoft Agent Framework Workflows | Microsoft Learn</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span></div>
   <div class="bookmark-meta">share.google · 8 July</div>
