@@ -39,6 +39,16 @@ A collection of useful things I've found on the web.
 ## July 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://vault-ld.org/">Vault-LD</a></div>
+  <div class="bookmark-meta">vault-ld.org · 15 July</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks">James Shore: Testing Without Mocks: A Pattern Language</a></div>
+  <div class="bookmark-meta">jamesshore.com · 15 July</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://share.google/Msxx3pVDS2y3Kjmdy">Agentic AI in observability: accelerating root cause analysis - The New Stack</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#observability</span></div>
   <div class="bookmark-meta">share.google · 11 July</div>
