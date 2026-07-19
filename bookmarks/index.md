@@ -39,6 +39,16 @@ A collection of useful things I've found on the web.
 ## July 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/luminousmen/p/big-data-file-formats?utm_source=share&utm_medium=android&r=j1l7m">Big Data File Formats</a></div>
+  <div class="bookmark-meta">open.substack.com · 18 July</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/tedgioia/p/the-collapse-at-netflix-signals-the?utm_source=share&utm_medium=android&r=j1l7m">The Collapse at Netflix Signals the End of Audience Capture</a></div>
+  <div class="bookmark-meta">open.substack.com · 18 July</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://vault-ld.org/">Vault-LD</a></div>
   <div class="bookmark-meta">vault-ld.org · 15 July</div>
 </div>
