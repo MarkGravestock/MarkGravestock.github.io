@@ -39,6 +39,42 @@ A collection of useful things I've found on the web.
 ## July 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.kaggle.com/whitepaper-the-new-SDLC-with-vibe-coding">The New SDLC With Vibe Coding</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">kaggle.com · 21 July</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://addyosmani.com/blog/agent-harness-engineering/">Agent Harness Engineering</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">addyosmani.com · 21 July</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://addyosmani.com/blog/factory-model/">The Factory Model: How Coding Agents Changed Software Engineering</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">addyosmani.com · 21 July</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/oreillyradar/p/the-new-software-lifecycle?utm_source=share&utm_medium=android&r=j1l7m">The New Software Lifecycle</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">open.substack.com · 21 July</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://share.google/lHUQYc5b8ldDK3HU9">Apache Calcite • Dynamic data management framework</a></div>
+  <div class="bookmark-tags"><span class="tag">#analytics</span> <span class="tag">#data</span></div>
+  <div class="bookmark-meta">share.google · 20 July</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://share.google/HBk8kwsLDAZjbjBRH">Hardwood 1.0: A Fast, Lightweight Apache Parquet Reader for the JVM - Gunnar Morling</a></div>
+  <div class="bookmark-tags"><span class="tag">#analytics</span> <span class="tag">#data</span> <span class="tag">#java</span></div>
+  <div class="bookmark-meta">share.google · 20 July</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://open.substack.com/pub/luminousmen/p/big-data-file-formats?utm_source=share&utm_medium=android&r=j1l7m">Big Data File Formats</a></div>
   <div class="bookmark-meta">open.substack.com · 18 July</div>
 </div>
