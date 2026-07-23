@@ -39,6 +39,16 @@ A collection of useful things I've found on the web.
 ## July 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://share.google/LolZCbWnavrKDukxp">GitHub - punkpeye/awesome-mcp-servers: A collection of MCP servers. · GitHub</a></div>
+  <div class="bookmark-meta">share.google · 23 July</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://share.google/CNlKB8Dk2DBZcgJo1">From monolith to Lakebase to LTAP: rethinking the database from storage up | Databricks Blog</a></div>
+  <div class="bookmark-meta">share.google · 23 July</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://www.kaggle.com/whitepaper-the-new-SDLC-with-vibe-coding">The New SDLC With Vibe Coding</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#ai</span></div>
   <div class="bookmark-meta">kaggle.com · 21 July</div>
