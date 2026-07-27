@@ -39,6 +39,17 @@ A collection of useful things I've found on the web.
 ## July 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://share.google/HId1gwQvrI1S2gWG1">Introduction to Apache Causeway | Baeldung</a></div>
+  <div class="bookmark-tags"><span class="tag">#java</span> <span class="tag">#spring</span> <span class="tag">#ddd</span></div>
+  <div class="bookmark-meta">share.google · 27 July</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://open.substack.com/pub/cutlefish/p/tbm-429-how-to-thrive-at-work-when?utm_source=share&utm_medium=android&r=j1l7m">TBM 429: How To Thrive At Work When You Think Too Much</a></div>
+  <div class="bookmark-meta">open.substack.com · 26 July</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://share.google/LolZCbWnavrKDukxp">GitHub - punkpeye/awesome-mcp-servers: A collection of MCP servers. · GitHub</a></div>
   <div class="bookmark-meta">share.google · 23 July</div>
 </div>
