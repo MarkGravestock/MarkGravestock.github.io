@@ -39,6 +39,12 @@ A collection of useful things I've found on the web.
 ## July 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://substack.com/@pauliusztin/note/c-293533938?r=j1l7m">Paul Iusztin (@pauliusztin)</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#knowledge</span></div>
+  <div class="bookmark-meta">substack.com · 28 July</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://share.google/HId1gwQvrI1S2gWG1">Introduction to Apache Causeway | Baeldung</a></div>
   <div class="bookmark-tags"><span class="tag">#java</span> <span class="tag">#spring</span> <span class="tag">#ddd</span></div>
   <div class="bookmark-meta">share.google · 27 July</div>
