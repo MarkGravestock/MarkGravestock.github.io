@@ -36,6 +36,15 @@ title: Bookmarks
 
 A collection of useful things I've found on the web.
 
+## August 2026
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://m.youtube.com/watch?v=SxdOUGdseq4">"Simple Made Easy" - Rich Hickey (2011)</a></div>
+  <div class="bookmark-meta">m.youtube.com · 16 August</div>
+</div>
+
+---
+
 ## July 2026
 
 <div class="bookmark">
