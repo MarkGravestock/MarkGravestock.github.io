@@ -39,6 +39,12 @@ A collection of useful things I've found on the web.
 ## August 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/">AI Software Development – What Does The Data Say?</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">codemanship.wordpress.com · 16 August</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://m.youtube.com/watch?v=SxdOUGdseq4">"Simple Made Easy" - Rich Hickey (2011)</a></div>
   <div class="bookmark-meta">m.youtube.com · 16 August</div>
 </div>
