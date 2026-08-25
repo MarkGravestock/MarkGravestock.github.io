@@ -39,6 +39,11 @@ A collection of useful things I've found on the web.
 ## August 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://engineering.zalando.com/posts/2026/08/agentic-engineering-at-zalando-a-snapshot.html">Agentic Engineering at Zalando: a snapshot</a></div>
+  <div class="bookmark-meta">engineering.zalando.com · 25 August</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/">AI Software Development – What Does The Data Say?</a></div>
   <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span></div>
   <div class="bookmark-meta">codemanship.wordpress.com · 16 August</div>
