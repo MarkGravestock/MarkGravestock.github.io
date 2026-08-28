@@ -39,6 +39,11 @@ A collection of useful things I've found on the web.
 ## August 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html">Making Your Data Ready for Agentic AI</a></div>
+  <div class="bookmark-meta">martinfowler.com · 27 August</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://engineering.zalando.com/posts/2026/08/agentic-engineering-at-zalando-a-snapshot.html">Agentic Engineering at Zalando: a snapshot</a></div>
   <div class="bookmark-meta">engineering.zalando.com · 25 August</div>
 </div>
