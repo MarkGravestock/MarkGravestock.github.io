@@ -39,6 +39,11 @@ A collection of useful things I've found on the web.
 ## August 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://blog.jetbrains.com/idea/2026/08/project-loom-in-intellij-idea-virtual-threads-scoped-values-and-structured-concurrency/">Project Loom in IntelliJ IDEA: Virtual Threads, Scoped Values, and Structured Concurrency</a></div>
+  <div class="bookmark-meta">blog.jetbrains.com · 29 August</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html">Making Your Data Ready for Agentic AI</a></div>
   <div class="bookmark-meta">martinfowler.com · 27 August</div>
 </div>
