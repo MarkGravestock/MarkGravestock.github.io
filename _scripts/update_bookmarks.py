@@ -60,7 +60,7 @@ title: Bookmarks
 }
 </style>
 
-A collection of useful things I've found on the web.
+A collection of useful links I've found to articles on the web.
 """
 
 
