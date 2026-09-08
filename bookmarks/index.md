@@ -36,6 +36,20 @@ title: Bookmarks
 
 A collection of useful links I've found to articles on the web.
 
+## September 2026
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://ailocal.substack.com/p/im-running-an-opus-level-coding-agent?utm_source=share&utm_medium=android&r=j1l7m">I’m running an Opus-level coding agent locally at nearly 2x Claude Opus speed, for free.</a></div>
+  <div class="bookmark-meta">ailocal.substack.com · 8 September</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://mattbeton.com/blog/bitnet-6502.html">Autoregressive Language Model on the 6502 Processor - Matt Beton</a></div>
+  <div class="bookmark-meta">mattbeton.com · 8 September</div>
+</div>
+
+---
+
 ## August 2026
 
 <div class="bookmark">
