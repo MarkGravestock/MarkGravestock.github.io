@@ -36,6 +36,22 @@ title: Bookmarks
 
 A collection of useful links I've found to articles on the web.
 
+## October 2026
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://huggingface.co/spaces/Xenova/the-tokenizer-playground">The Tokenizer Playground</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span></div>
+  <div class="bookmark-meta">huggingface.co · 2 October</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://poloclub.github.io/transformer-explainer/">Transformer Explainer: LLM Transformer Model Visually Explained</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#llm</span></div>
+  <div class="bookmark-meta">poloclub.github.io · 2 October</div>
+</div>
+
+---
+
 ## September 2026
 
 <div class="bookmark">
