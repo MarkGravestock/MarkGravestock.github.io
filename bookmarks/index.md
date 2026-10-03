@@ -39,6 +39,18 @@ A collection of useful links I've found to articles on the web.
 ## October 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://journal.optivem.com/p/spec-driven-development-make-specs">Spec-Driven Development: Make Specs Enforceable with ATDD</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span> <span class="tag">#spec-driven</span></div>
+  <div class="bookmark-meta">journal.optivem.com · 2 October</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://newsletter.kentbeck.com/p/augmented-coding-beyond-the-vibes">Augmented Coding: Beyond the Vibes</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span> <span class="tag">#spec-driven</span></div>
+  <div class="bookmark-meta">newsletter.kentbeck.com · 2 October</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://huggingface.co/spaces/Xenova/the-tokenizer-playground">The Tokenizer Playground</a></div>
   <div class="bookmark-tags"><span class="tag">#ai</span></div>
   <div class="bookmark-meta">huggingface.co · 2 October</div>
