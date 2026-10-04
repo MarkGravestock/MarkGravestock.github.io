@@ -39,6 +39,12 @@ A collection of useful links I've found to articles on the web.
 ## October 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://share.google/oWA9nLEZEJTK4CDHU">GOTO Copenhagen 2026: The Fundamentals Didn't Go Anywhere — Kasper Nissen</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#goto</span></div>
+  <div class="bookmark-meta">share.google · 4 October</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://journal.optivem.com/p/spec-driven-development-make-specs">Spec-Driven Development: Make Specs Enforceable with ATDD</a></div>
   <div class="bookmark-tags"><span class="tag">#ai</span> <span class="tag">#ai-code</span> <span class="tag">#spec-driven</span></div>
   <div class="bookmark-meta">journal.optivem.com · 2 October</div>
