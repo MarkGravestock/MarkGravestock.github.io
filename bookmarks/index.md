@@ -39,6 +39,23 @@ A collection of useful links I've found to articles on the web.
 ## October 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://share.google/cJxxA5vIN9LQhT6vj">JEPA: Joint Embedding Predictive Architecture Explained</a></div>
+  <div class="bookmark-meta">share.google · 5 October</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://www.dataleadsfuture.com/how-i-use-opencode-oh-my-opencode-slim-and-openspec-to-build-my-own-ai-coding-environment/">How I Use OpenCode, Oh-My-OpenCode-Slim, and OpenSpec to Build My Own AI Coding Environment</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#opencode</span></div>
+  <div class="bookmark-meta">dataleadsfuture.com · 4 October</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://assets-eu.researchsquare.com/files/rs-7180885/v1_covered_b9b4be91-5746-4a79-a944-015d65fe9d49.pdf">V covered bbbe a a dfed</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#quality</span></div>
+  <div class="bookmark-meta">assets-eu.researchsquare.com · 4 October</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://share.google/oWA9nLEZEJTK4CDHU">GOTO Copenhagen 2026: The Fundamentals Didn't Go Anywhere — Kasper Nissen</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#goto</span></div>
   <div class="bookmark-meta">share.google · 4 October</div>
