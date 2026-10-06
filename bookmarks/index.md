@@ -39,6 +39,36 @@ A collection of useful links I've found to articles on the web.
 ## October 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://academy.dair.ai/papers/agensh-scaling-organizational-intelligence-to-1-024-agents-2609.26781">Agensh: Scaling Organizational Intelligence to 1,024 Agents</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">academy.dair.ai · 5 October</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://docs.langchain.com/langsmith/evaluate-llm-application">How to evaluate agents - Docs by LangChain</a></div>
+  <div class="bookmark-tags"><span class="tag">#evals</span> <span class="tag">#ai</span></div>
+  <div class="bookmark-meta">docs.langchain.com · 5 October</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://yeshas93.substack.com/p/agentic-evals-a-software-engineers?utm_source=share&utm_medium=android&r=j1l7m">Agentic Evals: A Software Engineer's Guide, Part 1</a></div>
+  <div class="bookmark-tags"><span class="tag">#evals</span> <span class="tag">#ai-code</span></div>
+  <div class="bookmark-meta">yeshas93.substack.com · 5 October</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://netflixtechblog.medium.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508">The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale | by Netflix Technology Blog | Sep, 2026 | Medium</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#evals</span></div>
+  <div class="bookmark-meta">netflixtechblog.medium.com · 5 October</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://foojay.io/today/from-spec-driven-development-to-living-specifications-in-java-projects/">From Spec-Driven Development to Living Specifications in Java Projects | Foojay.io</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#spec-driven</span></div>
+  <div class="bookmark-meta">foojay.io · 5 October</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://share.google/cJxxA5vIN9LQhT6vj">JEPA: Joint Embedding Predictive Architecture Explained</a></div>
   <div class="bookmark-meta">share.google · 5 October</div>
 </div>
