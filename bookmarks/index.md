@@ -39,6 +39,18 @@ A collection of useful links I've found to articles on the web.
 ## October 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://adamtornhill.substack.com/p/follow-the-law-of-demeter-reduce-94e?utm_source=share&utm_medium=android&r=j1l7m">Follow the Law of Demeter: Reduce the Dependency Surface</a></div>
+  <div class="bookmark-tags"><span class="tag">#design</span> <span class="tag">#quality</span></div>
+  <div class="bookmark-meta">adamtornhill.substack.com · 6 October</div>
+</div>
+
+<div class="bookmark">
+  <div class="bookmark-title"><a href="https://adamtornhill.substack.com/p/evolutionary-refactoring-let-agents?utm_source=share&utm_medium=android&r=j1l7m">Evolutionary Refactoring: Let Agents Invent Codebase-Specific Patterns</a></div>
+  <div class="bookmark-tags"><span class="tag">#ai-code</span> <span class="tag">#refactoring</span></div>
+  <div class="bookmark-meta">adamtornhill.substack.com · 6 October</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://academy.dair.ai/papers/agensh-scaling-organizational-intelligence-to-1-024-agents-2609.26781">Agensh: Scaling Organizational Intelligence to 1,024 Agents</a></div>
   <div class="bookmark-tags"><span class="tag">#ai-code</span></div>
   <div class="bookmark-meta">academy.dair.ai · 5 October</div>
