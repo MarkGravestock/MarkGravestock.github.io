@@ -39,6 +39,12 @@ A collection of useful links I've found to articles on the web.
 ## October 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://blog.ploeh.dk/2023/04/17/a-restaurant-example-of-refactoring-from-example-based-to-property-based-testing/">A restaurant example of refactoring from example-based to property-based testing</a></div>
+  <div class="bookmark-tags"><span class="tag">#test</span></div>
+  <div class="bookmark-meta">blog.ploeh.dk · 20 October</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://adamtornhill.substack.com/p/follow-the-law-of-demeter-reduce-94e?utm_source=share&utm_medium=android&r=j1l7m">Follow the Law of Demeter: Reduce the Dependency Surface</a></div>
   <div class="bookmark-tags"><span class="tag">#design</span> <span class="tag">#quality</span></div>
   <div class="bookmark-meta">adamtornhill.substack.com · 6 October</div>
