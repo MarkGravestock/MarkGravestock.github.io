@@ -39,6 +39,11 @@ A collection of useful links I've found to articles on the web.
 ## October 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b">How to effectively debug when you no longer understand the code | by Cindy Sridharan | Oct, 2026 | Medium</a></div>
+  <div class="bookmark-meta">copyconstruct.medium.com · 25 October</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://blog.ploeh.dk/2023/04/17/a-restaurant-example-of-refactoring-from-example-based-to-property-based-testing/">A restaurant example of refactoring from example-based to property-based testing</a></div>
   <div class="bookmark-tags"><span class="tag">#test</span></div>
   <div class="bookmark-meta">blog.ploeh.dk · 20 October</div>
