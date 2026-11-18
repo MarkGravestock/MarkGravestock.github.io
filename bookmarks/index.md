@@ -39,6 +39,11 @@ A collection of useful links I've found to articles on the web.
 ## November 2026
 
 <div class="bookmark">
+  <div class="bookmark-title"><a href="https://martinfowler.com/articles/deterministic-simulation-testing.html">Deterministic Simulation Testing</a></div>
+  <div class="bookmark-meta">martinfowler.com · 18 November</div>
+</div>
+
+<div class="bookmark">
   <div class="bookmark-title"><a href="https://martinfowler.com/articles/tests-as-data.html">Tests as data</a></div>
   <div class="bookmark-meta">martinfowler.com · 11 November</div>
 </div>
